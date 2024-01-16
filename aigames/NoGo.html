@@ -1,0 +1,117 @@
+
+<!-- saved from url=(0048)http://aigames.nctu.edu.tw/~icwu/games/NoGo.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>NoGo</title>
+<style type="text/css"></style></head>
+
+<body>
+
+<h1>Introduction to NoGo Programs Developed at CGI Lab</h1>
+This page introduces the history of NoGo programs developed in <a href="http://www.aigames.nctu.edu.tw/">Computer Games and Intelligence (CGI) lab</a>, led by Professor <a href="http://java.csie.nctu.edu.tw/~icwu/">I-Chen Wu</a>, at <a href="http://www.cs.nctu.edu.tw/cswebsite/">Department of Computer Science</a>, National Chiao Tung University, Taiwan. The main contributor for the NoGo programs is Po-Hsuan She (佘博玄); other contributors are also acknowledged on this page. <br><br>
+
+NoGo is a variant of Go, with the difference being that no players are allowed to capture pieces or commit suicide. The first player that is unable to play without breaking these two rules loses. A very brief history of the game and early competitions can be read <a href="https://webdocs.cs.ualberta.ca/~mmueller/nogo/history.html">here</a> (by Martin Müller). <br><br>
+
+Our current program, HappyNoGo, has consistently won the gold medal in competitions, including the Computer Olympiad.
+
+<ul>
+	<li><a href="http://aigames.nctu.edu.tw/~icwu/games/NoGo.html#PSABR">PSABR (2010-2011)</a></li>
+	<li><a href="http://aigames.nctu.edu.tw/~icwu/games/NoGo.html#PohsuanNoGo">PohsuanNoGo (2011-2012)</a></li>
+	<li><a href="http://aigames.nctu.edu.tw/~icwu/games/NoGo.html#HappyNoGo">HappyNoGo (2012-)</a></li>
+</ul>
+
+<hr>
+<div id="PSABR"></div>
+<h2>PSABR (2010-2011)</h2>
+NoGo was assigned as the term project for the course “Theory of Computer Games” in the fall semester of 2010. Students were then encouraged to register for the <a href="http://aigames.nctu.edu.tw/TAAI2011/eng/">TAAI 2011</a> competition using their course projects. Of these participants, PSABR and MoonGo received the silver and bronze medals, respectively. <br><br>
+The first place program was Coldmilk, written by <a href="http://www.coldmilk.tw/Eng/Results.aspx">Cheng-Wei Chou</a> (National Dong Hwa University, Taiwan). <br><br>
+While PSABR is not directly related to the current program in terms of features, it served as the spring board for future NoGo Program development at CGI lab. <br><br>
+The sole author of the program is Po-Hsuan She; the main search engine uses alpha-beta search.
+
+<h3>Competitions</h3>
+	<table border="1">
+		<tbody><tr>
+			<th>Year</th>
+			<th>Competitions</th>
+			<th>Place</th>
+		</tr>
+		<tr>
+			<td>2011</td>
+			<td>TAAI NoGo</td>
+			<td>2nd place (Silver)</td>
+		</tr>
+	</tbody></table>
+<br>
+
+<hr>
+<div id="PohsuanNoGo"></div>
+<h2>PohsuanNoGo (2011-2012)</h2>
+Po-Hsuan She then improved his NoGo program by incorporating MCTS and RAVE. This new program, named PohsuanNoGo, went on to place second in the <a href="http://tcga.ndhu.edu.tw/TCGA2012/eng/">TCGA 2012</a> competition. The report can be accessed <a href="http://tcga.ndhu.edu.tw/TCGA2012/Result/TCGA2012_NoGo.pdf">here</a>. The undefeated champion at the time was <a href="https://webdocs.cs.ualberta.ca/~mmueller/nogo/BobNoGo.html">BobNoGo</a>, developed by Bob Hearn and Martin Müller. <br>
+
+<h3>Competitions</h3>
+	<table border="1">
+		<tbody><tr>
+			<th>Year</th>
+			<th>Competitions</th>
+			<th>Place</th>
+		</tr>
+		<tr>
+			<td>2012</td>
+			<td>TCGA NoGo</td>
+			<td>2nd place (Silver)</td>
+		</tr>
+		<tr>
+			<td>2013</td>
+			<td>17th Computer Olympiad</td>
+			<td>2nd place (Silver)</td>
+		</tr>
+	</tbody></table>
+<br>
+
+<hr>
+<div id="HappyNoGo"></div>
+<h2>HappyNoGo (2012-)</h2>
+Later in the same year, Po-Hsuan She worked with Ting-Fu Liao (廖挺富) to incorporate elements of Liao’s general framework for parallel MCTS and Li-Cheng Lan (藍立呈) also joined to assist in some code design. This program was named HappyNoGo, after our Go program at the time, <a href="http://aigames.nctu.edu.tw/~icwu/games/CGI.html#HappyGo">HappyGo</a>. HappyNoGo was able to run in parallel, which greatly increased its playing strength.
+
+<h3>Competitions</h3>
+	<table border="1">
+		<tbody><tr>
+			<th>Year</th>
+			<th>Competitions</th>
+			<th>Place</th>
+		</tr>
+		<tr>
+			<td>2012</td>
+			<td>TAAI NoGo</td>
+			<td>1st place (Gold)</td>
+		</tr>
+		<tr>
+			<td>2013</td>
+			<td><b>17th Computer Olympiad NoGo</b></td>
+			<td><b>1st place (Gold)</b></td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>TAAI NoGo</td>
+			<td>1st place (Gold)</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>TCGA NoGo</td>
+			<td>1st place (Gold)</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>18th Computer Olympiad NoGo</td>
+			<td>1st place (Gold)</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>TAAI NoGo</td>
+			<td>1st place (Gold)</td>
+		</tr>
+	</tbody></table>
+	
+<br>Most notably, HappyNoGo and the improved single-threaded PohsuanNoGo were both able to defeat BobNoGo for the <a href="" https:="" icga.leidenuniv.nl="" ?page_id="627#nogo&quot;">17th Computer Olympiad</a> (2013) in Yokohama, Japan.
+
+</body></html>
