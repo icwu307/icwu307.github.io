@@ -3,13 +3,19 @@
 
 # 吳毅成（[English](.)、中文）
 
-[國立交通大學資訊工程系][nctu_cs]教授  
+[國立陽明交通大學資訊學院][nctu_cs] 特聘教授、副院長  
+[中央研究院資創中心][citi] 合聘研究員  
 [國際電腦對局學會][icga]副理事長  
-[台灣電腦對局學會][tcga]理事長
+<!--[台灣電腦對局學會][tcga]理事長
+[中央研究院][sinica][資訊科技創新研究中心][citi] 研究員 & AI專題中心執行長 ([link][myciti])  -->
 
 </div>
-<img src="assets/ic_small.gif">
+<img src="assets/nctu-icwu.jpg" width=120>
 </div>
+
+---
+
+**歡迎加入我們 (包括碩博士生, 研究助理, 博士後研究, 可在交大或中研院). 有興趣者, 請聯絡柯小姐 <cindyko@nycu.edu.tw>.** 
 
 ---
 
@@ -34,16 +40,24 @@
 - 含教育背景、專業經驗、顧問經驗
 
 ### 摘錄榮譽事蹟（[完整][honors]、[新聞報導][news]）
-- 2019：獲得 Amazon 舉辦的 AWS DeepRacer 台灣區第 1, 3, 5, 7 名, 第一名獲得進入 Las Vegas 世界賽
-- 2018︰獲得科技部普適 AI 研究中心 (PAIR) 頒 "AI學術研究獎". 
-- 2018︰獲科技部 (MOST) 未來科技獎. 
-- 2018︰榮獲 TAAI 2018 會議之最佳論文獎
+- 2023︰國科會 (NSTC) 未來科技獎. 
+- 2022: 在 Las Vegas 舉辦的 [AWS DeepRacer 2022 世界賽][awsfinal2022] 囊括前三名.
+- 2021︰科技部 (MOST) 未來科技獎. 
+- 2021：[109年度科技部傑出研究獎][most-outstanding]
+- 2021：[中華民國資訊學會 資訊榮譽獎章][iicm]
+- 2020：[AWS DeepRacer 2020 世界賽第1,3名][awsfinal2020]
+- 2019：Amazon 在 Las Vegas 舉辦的 [AWS re:Invent 2019 (世界賽) 第 3 名][awsfinal]
+- 2019：Amazon 舉辦的 AWS DeepRacer 台灣區第 1, 3名
+- 2018︰科技部普適 AI 研究中心 (PAIR) 頒 "AI學術研究獎". 
+- 2018︰科技部 (MOST) 未來科技獎. 
+- 2018︰TAAI 2018 會議之最佳論文獎
+- 2017︰科技部 (MOST) 未來科技獎. 
 - 2017︰CGI 圍棋程式獲得中國野狐網站十段頭銜（繼絕藝、DeepZenGo 後全世界第三個 AI 獲得此頭銜）
-- 2017︰獲得培生文教基金會和海峰棋院捐助 660 萬元
+- 2017︰培生文教基金會和海峰棋院捐助 660 萬元
 - 2017︰在中國內蒙古鄂爾多斯市舉辦的 [2017 中信證券杯首屆世界智能圍棋公開賽競賽](http://www.intergofed.org/igf-news-feed/2017-citic-securities-cup-the-1st-world-ai-go-open.html)，CGI 圍棋程式榮獲亞軍，並於首日預賽全勝，包括擊敗絕藝（騰訊公司所開發）、DeepZenGo，並獲得獎金 10 萬人民幣
-- 2017︰在 IEEE FUZZ 2017 圍棋人機賽中，CGI 圍棋程式二戰二勝周俊勳九段（紅面棋王），第一次學界圍棋程式在人機圍棋正式賽中打敗職業九段
-- 2017︰[第二十屆奧林匹亞電腦賽局競賽][icga]榮獲六金（Dark chess、Mahjong、Go 9x9、Go 13x13、Chinese chess、Einstein）、一銀（Go 19x19）、一銅（Othello）
-- 2017︰圍棋人工智慧與物聯網大會人機配對賽（中韓台）冠軍 (詳見[此][honors])
+- 2017︰在 IEEE FUZZ 2017 圍棋人機賽中，CGI 圍棋程式二戰二勝周俊勳九段（紅面棋王）
+- 2017︰圍棋人工智慧與物聯網大會人機配對賽（中韓台）冠軍 
+- 2017︰[第二十屆奧林匹亞電腦賽局競賽][icga]榮獲六金（Dark chess、Mahjong、Go 9x9、Go 13x13、Chinese chess、Einstein）、一銀（Go 19x19）、一銅（Othello）。(註: 至2020年, 共獲得33面金牌)
 
 
 ### [開授課程][courses]
@@ -54,6 +68,7 @@
 ### 實驗室
 
 - [電腦遊戲與智慧實驗室][cgi_lab]
+- [實驗室臉書][cgi_lab_fb]
 
 ---
 
@@ -62,7 +77,7 @@
 > 電話：035-731855  
 > 傳真：035-733777  
 > 電子郵件：<icwu@cs.nctu.edu.tw>  
-> 地址：台灣新竹市國立交通大學資訊工程系大學路 1001 號
+> 地址：台灣新竹市國立陽明交通大學資訊工程系大學路 1001 號
 
 [news]: news.html
 [about]: about.html
@@ -71,12 +86,21 @@
 [research]: research.html
 [publications]: publications.html
 [achievements]: research.html#research-topics-and-achievements
-[cgi_lab]: http://www.aigames.nctu.edu.tw/
-[nctu]: https://www.nctu.edu.tw/
-[nctu_cs]: https://www.cs.nctu.edu.tw/cswebsite/
+[cgi_lab]: https://cgilab.nctu.edu.tw/
+[cgi_lab_fb]: https://www.facebook.com/lab.cgi.7
+[citi]: https://www.citi.sinica.edu.tw/
+[sinica]: https://www.sinica.edu.tw/
+[nctu]: https://www.nycu.edu.tw/
+[nctu_cs]: https://www.cs.nycu.edu.tw/
 [connect6]: http://www.connect6.org/
 [connect6_wiki]: http://en.wikipedia.org/wiki/Connect6
 [icwu_wiki]: http://en.wikipedia.org/wiki/I-Chen_Wu
 [icwu_facebook]: https://www.facebook.com/icwu307
 [icga]: https://icga.org/
 [tcga]: http://tcga.ndhu.edu.tw/
+[awsfinal]: https://www.inside.com.tw/article/18289-Taiwan-NCTU-CGI-student-wins-AWS-DeepRacer-League-bronze-medal
+[awsfinal2020]: https://aws.amazon.com/tw/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/
+[myciti]: https://www.citi.sinica.edu.tw/pages/icwu/index_zh.html
+[iicm]: http://www.iicm.org.tw/about/award.asp
+[most-outstanding]: https://www.most.gov.tw/folksonomy/list/554e3625-b1d7-4a0d-9a70-2ffc81c90ab3?l=ch
+[awsfinal2022]:https://www.youtube.com/watch?v=T8y-pQ14qGg

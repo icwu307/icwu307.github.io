@@ -1,28 +1,67 @@
 # Honors of [I-Chen Wu][icwu]
 
 [(News Coverage in Chinese; 新聞報導)][news]
-- 2019: Won the 1st, 3rd, 5th, 7th places in [AWS DeepRacer][deepracer] (Taipei) sponsored by Amazon.
-  - Participants: Roger Chu (1st), Yuan-Hao Chen (3rd), Ting Wei (5th), 
-Jin-Bo Huang (7th)) 
+
+- 2023: Received FutureTech Award from National Science and Technology Council (NSTC, aka MOST), 2023.
+  - **獲國科會 (NSTC, aka 科技部) 未來科技獎.**
+- 2023: Won four gold (Go 9x9, Mahjong, Connect6, Einstein) in [the 26th Computer Olympiad][icga]. 
+  - [第二十六屆奧林匹亞電腦賽局競賽][icga]榮獲四金(Go 9x9, Mahjong, Connect6, Einstein)
+- 2023: Distinguished Teaching Award (English) in the Computer Science College at NCTU.
+  - 交大資訊學院教學優良獎
+- 2022: Yi Li, Zheng-Yi Li and YoWei Shi won the top three (among thousands of participants) in [2022 AWS DeepRacer Championship][awsfinal2022] (among about 150,000 participants), sponsored by Amazon, held in Las Vegas. 
+  - 李頤、李政毅、施囿維獲得 Amazon 在 Las Vegas 舉辦的 **AWS DeepRacer 2022 世界賽前三名.**
+  - 據官方報導參與總數超過15萬人
+  - 達本次競賽(官方)最佳紀錄 13.768 秒!
+- 2022: Won four gold (Dark Chess, Mahjong, Connect6, Outer-Open Gomoku) in [the 25th Computer Olympiad][icga]. 
+  - [第二十五屆奧林匹亞電腦賽局競賽][icga]榮獲四金(Dark Chess, Mahjong, Connect6, Outer-Open Gomoku)
+- 2022: Distinguished Course Award at NYCU (co-winners: Prof. Wen-Hsiao Peng and Yong-Sheng Chen).
+  - 陽明交大110學年度第2學期特色課程【創新類】課程傑出獎
+  - 得獎課程: 深度學習與實務 (共同開授教授: 彭文孝, 陳永昇)
+- 2021: Received FutureTech Award from Ministry of Science and Technology (MOST), 2021.
+  - **獲科技部 (MOST) 未來科技獎.**
+- 2021: [Cloud-based Smart Point Cloud Processing (CSPCP)][nchc-rd100], a co-work with NCHC, receiving R&D 100 Awards, 2021.
+  - 與國網中心合作 **獲 R&D 100 2021 全球百大科技研發獎**
+- 2021: [MOST Outstanding Research Award][most-outstanding], Ministry of Science and Technology (MOST), Taiwan 
+  - **[109年度科技部傑出研究獎][most-outstanding]**
+- 2021: [IICM Medal of Honor][iicm], Institute of Information & Computing Machinery (IICM) 
+  - **[中華民國資訊學會 資訊榮譽獎章][iicm]**
+- 2021: Won two gold (Go 9x9, Connect6) in [the 24th Computer Olympiad][icga]. 
+  - [第二十四屆奧林匹亞電腦賽局競賽][icga]榮獲二金(Go 9x9, Connect6)
+- 2020: Bo-Chun Hsu and Kuei-Ting Kuo in our team won 1st and 3rd places respectively (among 10000+ participants) in [2020 Championship Cup of AWS DeepRacer League][awsfinal2020], sponsored by Amazon. 
+  - Team: Jin-Bo Huang, Bo-Chun Hsu, Kuei-Ting Kuo, Chi-You Kao, Shao-Hsiung Cheng (黃勁博、許博鈞、郭奎廷、高誌佑、鄭紹雄)
+  - **許博鈞、郭奎廷分別獲得 Amazon 舉辦的 [AWS DeepRacer 2020 世界賽 (world final) 第一、三名][awsfinal].**
+- 2020: Won four gold (Go 9x9, Mahjong, Connect6, Outer-Open Gomoku) and two silver in [the 23th Computer Olympiad][icga]. (Silvers and bronzes are not listed here.)
+  - [第二十三屆奧林匹亞電腦賽局競賽][icga]榮獲四金(Go 9x9, Mahjong, Connect6, Outer-Open Gomoku)二銀
+- 2019: Roger Chu in our team won 3rd place among 60+ competitors (selected among 8000+ participants) in AWS re:Invent 2019 held in Las Vegas, sponsored by Amazon.
+  - Team: Jin-Bo Huang, Yuan-Hao Chen, Roger Chu, Tinghan Wei (黃勁博、陳源灝、朱詠嘉、魏廷翰)
+  - **朱詠嘉獲得 Amazon 在 Las Vegas 舉辦的 [AWS re:Invent 2019 (世界賽) (world final)][awsfinal] 第 3 名.**
+- 2019: Won 1st, 2nd, 4th, 5th places (among 1983 competitors) in AWS DeepRacer League - [Virtual Circuit Toronto Turnpike][toronto] sponsored by Amazon.
+  - Participants: Jin-Bo Huang, Yuan-Hao Chen, Roger Chu, Tinghan Wei
+  - 黃勁博、陳源灝、朱詠嘉、魏廷翰, 獲得 Amazon 舉辦的 AWS DeepRacer - Virtual Circuit Toronto Turnpike第 1, 2, 4, 5 名.
+- 2019: Won four golds (Go 9x9, Othello 16x16, NoGo, Einstein) in [the 22nd Computer Olympiad][icga]. (Silvers and bronzes are not listed here.)
+  - [第二十二屆奧林匹亞電腦賽局競賽][icga]榮獲四金(Go 9x9, Othello 16x16, NoGo, Einstein)
+- 2019: Won 1st, 3rd, 5th, 7th places (among 90+ participants) in [AWS DeepRacer][deepracer] (Taipei) sponsored by Amazon.
+  - Participants: Roger Chu (1st), Yuan-Hao Chen (3rd), Ting Wei (5th),
+Jin-Bo Huang (7th))
   - 朱詠嘉、陳源灝、魏廷翰、黃勁博, 分別獲得 Amazon 舉辦的 AWS DeepRacer 台灣區第 1, 3, 5, 7 名,
   - 第一名獲得進入 Las Vegas 世界賽
 - 2018: Received AI Academic Research Award from the Pervasive AI Research (PAIR) Center of Ministry of Science and Technology (MOST), December 2018.
-  - **獲得科技部普適 AI 研究中心 (PAIR) 頒 "AI學術研究獎".** 
+  - **獲得科技部普適 AI 研究中心 (PAIR) 頒 "AI學術研究獎".**
 - 2018: Received FutureTech Award from Ministry of Science and Technology (MOST), December 2018.
-  - **獲科技部 (MOST) 未來科技突破獎.** 
+  - **獲科技部 (MOST) 未來科技突破獎.**
 - 2018: Won Best Paper Award in the 2018 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2018), December 2018.
-  - Chu-Hsuan Hsueh, I-Chen Wu, Jr-Chang Chen, Tsan-sheng Hsu, "AlphaZero for a Non-deterministic Game," 
+  - Chu-Hsuan Hsueh, I-Chen Wu, Jr-Chang Chen, Tsan-sheng Hsu, "AlphaZero for a Non-deterministic Game,"
   - 榮獲 TAAI 2018 會議 (International Track) 之最佳論文獎
 - 2018: Won four golds (Chinese Chess, Go 9x9, Mahjong, and NoGo) in the TAAI 2018 Computer Game Competition.
   - TAAI 2018 電腦賽局競賽榮獲四金 (Chinese Chess, Go 9x9, Mahjong, and NoGo)
 - 2018: Won three golds (Dark chess, Mahjong, Einstein) and one bronze (Chinese chess) in [the 21st Computer Olympiad][icga].
   - [第二十一屆奧林匹亞電腦賽局競賽][icga]榮獲三金(Dark chess, Mahjong, Einstein)、一銅(Chinese chess)
 - 2017-2018: In all of the three man-machine Go games in Mei-Chu tournament, CGI won against Yuan-Jun Wang (王元均), 8 pro. dan with four champion titles in Taiwan in 2017.
-  - **戊戌梅竹 人機圍棋對弈三場, CGI 均勝 王元均(職業 8 段)**
-  - 註: 2017 年王元均擁有四冠軍頭銜.
+  - **戊戌梅竹 人機圍棋對弈三場, CGI 均勝 王元均**
+  - 註: **2017 年王元均擁有四冠軍頭銜**
 - 2017: Received FutureTech Award from Ministry of Science and Technology (MOST), December 2017.
-  - **獲科技部 (MOST) 未來科技突破獎.** 
-- 2017: Won Merit Paper Award in the 2017 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2017), December 2017.
+  - **獲科技部 (MOST) 未來科技突破獎.**
+- 2017: Won Merit Paper Award in 2017 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2017), December 2017.
   - Yeong-Jia Roger Chu, Yuan-Hao Chen, Chu-Hsuan Hsueh, I-Chen Wu, "An Agent That Plays EinStein Würfelt Nicht!",
   - 榮獲 TAAI 2017 會議(International Track)之論文獎佳作
   - 註: 此為朱詠嘉、陳源灝大學部專題之研究成果
@@ -31,7 +70,7 @@ Jin-Bo Huang (7th))
   - 繼絕藝、DeepZenGo 後全世界第三個 AI 獲得此頭銜.
 - 2017: Received NT\$6,600,000 donation from HaiFong Weichi Foundation, Taiwan.
   - **獲得培生文教基金會和海峰棋院捐助 660 萬元**
-- 2017: Won the second place in ["CITIC Securities Cup", the 1st World AI Go Open][citic_2017], held in Ordos, Inner Mongolia, China.
+- 2017: Won second place in ["CITIC Securities Cup", the 1st World AI Go Open][citic_2017], held in Ordos, Inner Mongolia, China.
   - Won all games during the day-1 preliminary, including beating FineArt (developed by Tencent Inc.) and DeepZenGo.
   - Received a prize of RMB\$100,000.
   - **在中國內蒙古鄂爾多斯市舉辦的 [2017 中信證券杯首屆世界智能圍棋公開賽競賽][citic_2017]中, CGI 圍棋程式榮獲亞軍**.
@@ -52,12 +91,12 @@ Jin-Bo Huang (7th))
   - 台：**黑嘉嘉七段與交通大學"CGI"（白）VS 韓：李昌鎬九段與石子旋風（黑）白勝 3.5**
   - 台：**黑嘉嘉七段與交通大學"CGI" （白）VS 中：馬曉春九段與清華大學神算子（黑）白勝 (中盤勝)**
   - 作者: 吳廸融、陳冠文、吳宏君、賴東億、藍立呈、廖挺富、吳毅成
-- 2017: Distinguished Teaching Award in the Computer Science College at NCTU.
+- 2017: Distinguished Teaching Award in Computer Science College at NCTU.
   - 交大資訊學院教學優良獎
-- 2017: Won the second in [2017 Computer Othello Championship](http://sites.cjcu.edu.tw/othello2017_eng/).
+- 2017: Won second in [2017 Computer Othello Championship](http://sites.cjcu.edu.tw/othello2017_eng/).
   - Cocoon 程式於[UEC 2017 世界電腦黑白棋爭霸賽](http://sites.cjcu.edu.tw/othello2017_eng/)獲得第二名 (獎金 NT\$20000)
   - 作者: 許維元等.
-- 2017: Won the seventh place in the Go tournament of UEC-Cup 2017 in Japan.
+- 2017: Won seventh place in the Go tournament of UEC-Cup 2017 in Japan.
   - CGI 程式於 UEC 2017 電腦 19 路圍棋大賽獲得第七名
   - 作者: 吳廸融等.
 - 2016: Won three golds (Dark chess 8x8, Go 9x9 and NoGo), three silvers in the TAAI 2016 Computer Game Competition.
@@ -197,64 +236,98 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
-- 2019: Ting-Han Wei (Ph.D. student) received the best Ph.D. dissertation award from TCGA association.
+- 2023: Hung Guei received the best Ph.D. dissertation award from IEEE Taipei Section.
+  - 桂浤，榮獲IEEE 台北分會最佳博士論文獎。 
+- 2023: Hung Guei received the best Ph.D. dissertation award from TAAI association.
+  - 桂浤，榮獲中華民國人工智慧學會最佳博士論文獎。 
+- 2023: Hung Guei received the best Ph.D. dissertation award from TCGA association.
+  - 桂浤，榮獲台灣電腦對局學會最佳博士論文獎。 
+- 2023: An undergraduate project by Hao-En Kuan, Yen-Shun Lu, Tzu-Chun Chen won the distinguished excellence award from the competition of undergraduate projects in Dept. of CS at NYCU.  
+  Project name: "Entropy-Based Two-Phase Optimization Algorithm for Solving Wordle-like Games".
+  - 官澔恩、盧彥勳、陳子濬，榮獲陽明交大資工系 111 學年度專題競賽特優。  
+    指導專題題目︰Entropy-Based Two-Phase Optimization Algorithm for Solving Wordle-like Games
+- 2022: Meng-Yu Tsai received the best M.S. dissertation award from TCGA association.
+  - 蔡孟宇，榮獲 111 年度台灣電腦對局學會最佳碩士論文獎。
+- 2021: Ti-Rong Wu received the best Ph.D. dissertation award from TCGA association.
+  - 吳廸融，榮獲台灣電腦對局學會最佳博士論文獎。 
+- 2021: Ti-Rong Wu received the Ph.D. dissertation honorable mention award from IICM (Institute of Information & Computing Machinery).
+  - 吳廸融，榮獲中華民國資訊學會最佳博士論文獎佳作。 
+- 2020: Ti-Rong Wu received the best Ph.D. dissertation award from TAAI association.
+  - 吳廸融，榮獲 109 年度中華民國人工智慧學會最佳博士論文獎。 
+- 2020: Ti-Rong Wu received the best Ph.D. dissertation award from TIEEE (Taiwan Institute of Electrical and Electronic Engineering).
+  - 吳廸融，榮獲 109 年度台灣電機電子工程學會最佳博士論文獎。 
+- 2020: Chu-Hsuan Hsueh received the best Ph.D. dissertation award from TCGA association.
+  - 薛筑軒，榮獲 108 年度台灣電腦對局學會最佳博士論文獎。 
+- 2020: Jin-Bo Huang, Roger Chu, Yuan-Hao Chen gave an invited talk about DeepRacer at AWS re:Invent 2019 re:Cap.
+  - 黃勁博、陳源灝、朱詠嘉受邀至 Amazon 舉辦的 AWS re:Invent 2019 re:Cap 大會演講.
+- 2020: Jin-Bo Huang, Roger Chu, Yuan-Hao Chen gave an invited talk about DeepRacer at DBS Bank Limited.
+  - 黃勁博、陳源灝、朱詠嘉受邀至星展銀行演講.
+- 2020: Jin-Bo Huang, Roger Chu, Yuan-Hao Chen gave an invited talk about DeepRacer at Fengjia Univiersity.
+  - 黃勁博、陳源灝、朱詠嘉受邀至逢甲大學演講.
+- 2019: An-Jen Liu received the best M.S. dissertation award from IICM (Institute of Information and Computing Machinery).
+  - 劉安仁，榮獲 108 年度中華民國資訊學會最佳碩士論文獎。
+- 2019: An-Jen Liu received the best M.S. dissertation award from TAAI association.
+  - 劉安仁，榮獲 108 年度中華民國人工智慧學會最佳碩士論文獎。
+- 2019: Yuan-Hao Chen received the scholarship award from Novatek Corp.
+  - 陳源灝，榮獲聯詠科技公司獎學金。
+- 2019: Ting-Han Wei received the best Ph.D. dissertation award from TCGA association.
   - 魏廷翰，榮獲 108 年度台灣電腦對局學會最佳博士論文獎。  
     指導論文題目: On Job Level Computing
-- 2019: Li-Cheng Lan (M.S. student) received the M.S. dissertation honorable mentioned award from TCGA association.
+- 2019: Li-Cheng Lan received the M.S. dissertation honorable mention award from TCGA association.
   - 藍立呈，榮獲 108 年度台灣電腦對局學會碩士論文佳作獎。  
 - 2017: An undergraduate project by Yeong-Jia Roger Chu, Yuan-Hao Chen won the distinguished excellence award from the competition of undergraduate projects in Dept. of CS at NCTU.  
   Project name: "An Agent for EinStein würfelt nicht".
   - 朱詠嘉、陳源灝，榮獲交大資工系 106 學年度專題競賽特優。  
     指導專題題目︰棋類遊戲人工智慧－EinStein würfelt nicht
-- 2017: Kun-Hao Yeh (M.S. student) received the M.S. dissertation honorable mentioned award from TAAI association.
+- 2017: Kun-Hao Yeh received the M.S. dissertation honorable mention award from TAAI association.
   - 葉騉豪，榮獲 106 年度中華民國人工智慧學會碩士論文佳作獎。
-- 2017: Kun-Hao Yeh (M.S. student) received the best M.S. dissertation award from TAAI association.
+- 2017: Kun-Hao Yeh received the best M.S. dissertation award from TAAI association.
   - 葉騉豪，榮獲 106 年度台灣電腦對局學會最佳碩士論文獎。
-- 2017: Chia-Chuan Chang (M.S. student) received the best M.S. dissertation award from TCGA association.
+- 2017: Chia-Chuan Chang received the best M.S. dissertation award from TCGA association.
   - 張家銓，榮獲 106 年度台灣電腦對局學會最佳碩士論文獎。
-- 2016: Wu Ti-Rong won the best student award in the [Go tournament of UEC-Cup 2016](https://jsb.cs.uec.ac.jp/~igo/eng/) in Japan.
+- 2016: Ti-Rong Wu won the best student award in the [Go tournament of UEC-Cup 2016](https://jsb.cs.uec.ac.jp/~igo/eng/) in Japan.
   - 吳廸融獲得 2016 UEC 杯電腦圍棋競賽最優學生獎十萬日幣.
-- 2016: Chao-Chin Liao (M.S. student) received the best M.S. dissertation award from TCGA association.
+- 2016: Chao-Chin Liang received the best M.S. dissertation award from TCGA association.
   - 梁朝欽，榮獲 105 年度台灣電腦對局學會最佳碩士論文獎。
-- 2016: Xi Liang (M.S. student) received the M.S. dissertation honorable mentioned award from TCGA association.
+- 2016: Xi Liang received the M.S. dissertation honorable mention award from TCGA association.
   - 梁熙，榮獲 105 年度台灣電腦對局學會碩士論文獎佳作。
 - 2015: Kun-Hao Yeh received the scholarship award from Novatek Corp.
   - 葉騉豪，榮獲聯詠科技公司獎學金。
 - 2015: Po-Han Lin (M.S. student, CYCU) received the best M.S. dissertation award from TCGA association.
   - 林伯翰，榮獲 104 年度台灣電腦對局學會最佳碩士論文獎。  
     指導論文題目: Job-Level AB-DUAL\* for Chinese Chess Opening
-- 2015: Chieh-Min Chang (M.S. student) received the M.S. dissertation honorable mentioned award from TCGA association.
+- 2015: Chieh-Min Chang received the M.S. dissertation honorable mention award from TCGA association.
   - 張傑閔，榮獲 104 年度台灣電腦對局學會碩士論文獎佳作。  
     指導論文題目: 六子棋程式平行化之研究
-- 2014: Yi-Chang Shan (Ph.D. student) received the best Ph.D. dissertation award from TCGA association.
+- 2014: Yi-Chang Shan received the best Ph.D. dissertation award from TCGA association.
   - 單益章，榮獲 103 年度台灣電腦對局學會最佳博士論文獎。  
     指導論文題目: 應用組合對局知識解決遊戲及改良搜尋效能
-- 2014: Ting-Fu Liao (M.S. student) received the best M.S. dissertation award from TCGA association.
+- 2014: Ting-Fu Liao received the best M.S. dissertation award from TCGA association.
   - 廖挺富，榮獲 103 年度台灣電腦對局學會最佳碩士論文獎。  
     指導論文題目: 平行蒙地卡羅樹狀搜尋之軟體框架
-- 2014: Tung-Ying Wu (M.S. student) received the M.S. dissertation honorable mentioned award from TCGA association.
+- 2014: Tung-Ying Wu received the M.S. dissertation honorable mention award from TCGA association.
   - 吳東穎，榮獲 103 年度台灣電腦對局學會碩士論文獎佳作。  
     指導論文題目: 運用蒙地卡羅樹狀搜尋於多目標彈性零工式工廠排程問題
-- 2013: Hung-Hsuan Lin (Ph.D. student) received the M.S. dissertation honorable mentioned award from Taiwan Institute of Electrical and Electronic Engineering (T-IEEE).
+- 2013: Hung-Hsuan Lin received the M.S. dissertation honorable mention award from Taiwan Institute of Electrical and Electronic Engineering (T-IEEE).
   - 林宏軒，榮獲 102 年度臺灣電機電子工程學會最佳博士論文獎佳作。  
     指導論文題目: 利用志願型運算解決電腦遊戲問題
 - 2013: An undergraduate project by Yi-Hsuan Chan, Rui-Lin Chen and Chu-Hsuan Hsueh won the excellence award from the competition of undergraduate projects in Dept. of CS at NCTU.  
   Project name: "Analysis and Solving of Killer Sudoku".
   - 詹翊瑄、陳瑞琳、薛築軒，榮獲交大資工系 99 學年度專題競賽優等。  
     指導專題題目︰殺手數獨(Killer Sudoku)的分析與解法。
-- 2013: Hao-Hua Kang (M.S. student) received the best M.S. dissertation award from TCGA association.
+- 2013: Hao-Hua Kang received the best M.S. dissertation award from TCGA association.
   - 康皓華，榮獲 102 年度台灣電腦對局學會最佳碩士論文獎。  
     指導論文題目: 以區域相關攻擊為主的六子棋搜尋演算法
-- 2013: Hao-Yun Liu (M.S. student) received the M.S. dissertation honorable mentioned award from TCGA association.
+- 2013: Hao-Yun Liu received the M.S. dissertation honorable mention award from TCGA association.
   - 劉浩雲，榮獲 102 年度台灣電腦對局學會碩士論文獎佳作。  
     指導論文題目: 用於電腦對局遊戲桌機網格的通用遊戲發展之軟體框架
-- 2013: Hung-Hsuan Lin (Ph.D. student) received the distinguished graudate research prize of the department of computer science at NCTU in 2012.
+- 2013: Hung-Hsuan Lin received the distinguished graudate research prize of the department of computer science at NCTU in 2012.
   - 林宏軒，榮獲國立交通大學資訊工程學系 101 學年度研究生「研究傑出獎」。
 - 2012: Ting-Fu Liao won the first prize out of 883 competitors in the fourth annual IBM Campus competition on mainframe computers.
   - 廖挺富，榮獲第四屆 IBM 大型主機校園競賽。
 - 2012: Ting-Fu Liao received the scholarship award from Novatek Corp.
   - 廖挺富，榮獲聯詠科技公司獎學金。
-- 2012: Chun-Yi Chen (M.S. student) received the best M.S. dissertation award from TCGA association.
+- 2012: Chun-Yi Chen received the best M.S. dissertation award from TCGA association.
   - 陳俊嶧，榮獲 101 年度台灣電腦對局學會最佳碩士論文獎。  
     指導論文題目: 一個蒙地卡羅之電腦圍棋程式之設計。
 - 2011: Ping-Hung Lin (Ph.D student) received the best Ph.D. dissertation award from TAAI association.
@@ -303,3 +376,11 @@ Jin-Bo Huang (7th))
 [icga]: http://icga.org/
 [news]: news.html
 [deepracer]: https://d3akhm1epsal2g.cloudfront.net/bigscreen/?event=taipei&fbclid=IwAR0o-uezt8wQdSEzIpFk1x4uSPu9xr1pBC_tEtazkzgbL_rOzoY6ixNrAP4
+[toronto]: https://aws.amazon.com/tw/deepracer/schedule-and-standings/leaderboard-virtual-toronto-turnpike-2019/
+[awsfinal]: https://www.inside.com.tw/article/18289-Taiwan-NCTU-CGI-student-wins-AWS-DeepRacer-League-bronze-medal
+[awsfinal2020]: https://aws.amazon.com/tw/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/
+[iicm]: http://www.iicm.org.tw/about/award.asp
+[most-outstanding]: https://www.most.gov.tw/folksonomy/list/554e3625-b1d7-4a0d-9a70-2ffc81c90ab3?l=ch
+[nchc-rd100]: https://www.nchc.org.tw/Message/MessageView/3796?mid=92&page=1
+[rd100]: https://www.rdworldonline.com/rd-100-2021-winner/cloud-based-smart-point-cloud-processing-cspcp/
+[awsfinal2022]:https://www.youtube.com/watch?v=T8y-pQ14qGg

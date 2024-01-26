@@ -2,19 +2,14 @@
 
 ## Research Interests
 
-All current research interests are related to **machine learning** and **computer games** applications, especially for **Deep Reinforcement Learning (DRL)**. We have an ongoing project sponsored by MOST, named "Studies of Applications with Deep Reinforcement Learning Technologies", and several industry-university cooperation projects on machine learning, mainly for DRL.
+Most of our research interests are related to **machine learning** and **computer games** applications, especially for **Deep Reinforcement Learning (DRL)**. 
 
-For DRL, we focus on the following research topics.
+- In 2005-2015, we focused more on various research topics related to computer games, such as board games, card games, puzzle games, video games, etc. 
+- After 2015, we extended our researches from computer games to various DRL applications, such as learning-based autonomous vehicles (like AWS DeepRacer), intelligent traffic managements, scheduling, combinatorial optimization, large language models (RLHF), etc. 
 
-- Developing a Go program CGI (see below) including DeepMind's AlphaZero technique (called Zero in this page).
-- Applying Zero to other game AI, including a framework for Zero.
-- Researching on Explainable AI (XAI), especially for Zero-related.
-- Developing AI bots of video games.
-- Researching on learning-based robotics.
+**Welcome to join us, NCTU+Sinica CGI lab, as Postdoc, RA, M.S./Ph.D. students. If interested, please contact Cindy Ko <cindyko@nycu.edu.tw>.** 
 
-For Computer Games, we are still interested in various topics related to games, such as board games, card games, puzzle games, video games, etc.
-
-Welcome to join us!!
+(Updated in October, 2021)
 
 ---
 
@@ -27,16 +22,30 @@ List our research topics as well as achievements (since 2005).
 
 (Machine-learning-related)
 
-### Deep Reinforcement Learning Related to Zero
+### Deep Reinforcement Learning Related to AlphaZero
 
-- Develop a multi-labelled value network (ML-VN) with a Go program, which allows programs to play different komis. Also see [publications \[J 58\]][publications].
-- Developed a computer Go lifelong learning system, which is the world's first Go system that is able to provide different strengths from beginners to super-human, and dynamically analyze the opponent's strength.
-  - This research result is selected as an exhibition in the 2018 Future Tech.
-  - A paper for this is accepted by the top conference AAAI-19 for presentation. (acceptance rate = 1,150/7,095 = 16.2%) Also see [publications \[C 76\]][publications].
-- Develop a Zero framework.
+- Developed a multi-labelled value network (ML-VN) with a Go program, which allows programs to play different komis. Also see [publications [J 58]][publications] and [honors][honors].
+  - June 2017: Won the human-AI-cooperation match (China-Korea-Taiwan) in the Go AI and IoT workshop in Fu-Chou, China (中韓台人機配對賽冠軍).
+  - August 2017: Won the second place in the 1st World AI Go Open, held in Ordos, Inner Mongolia, China. (首屆世界智能圍棋公開賽亞軍) Actually, we won all games during the day-1 preliminary, including beating FineArt (developed by Tencent Inc.; 中國騰訊) and DeepZenGo. Received a prize of RMB$100,000 (about NT$450,000).
+  - July 2017: Won two games against Chun-Hsun Chou (9p; 周俊勳九段–––紅面棋王) in IEEE FUZZ 2017 Go Human-Computer competitions.
+  - December 2017 - March 2018: Won against Yuan-Jun Wang (王元均) in all of the three man-machine Go games in Mei-Chu tournament. (戊戌梅竹人機圍棋對弈)
+  - October 2017 – March 2018: Won against many top Go players, including those ranked top 3 in the world (世界排名前三名), Ke Jie (柯潔), Park Junghwan (朴廷桓), Mi Yuting (羋昱廷).
+  - October 2017: CGI was awarded a 10-dan title from Fox Weiqi website. (中國野狐網站十段頭銜)
+  - 2017: Received NT$6,600,000 donation from HaiFong Weichi Foundation (海峰棋院), and NT$3,000,000 donation from MediaTek (聯發科).
+- Proposed an approach to strength adjustment and assessment for MCTS based game-playing programs, especially for Go. Particularly, developed a computer Go lifelong learning system, which is the world's first Go system that is able to cover different strengths from beginners to super-human, and dynamically analyze the opponent's strength.
+  - This research result was selected as an exhibition in the 2018 Future Tech.
+  - A paper for this was presented in the top-tier conference AAAI-19 for presentation (acceptance rate = 1,150/7,095 = 16.2%) and published in IEEE CIM (IF=11.356). Also see [publications [C 76, J 65]][publications].
+- Proposed a technique to improve AlphaZero, named Multiple Policy Value Monte Carlo Tree Search, presented in IJCAI 2019 (Acceptance rate: 850/4752 = 17.9%). Also see [publications [C 78]][publications].
+- Proposed a novel method to adjust hyperparameters of AlphaZero programs such that CGI obtained a winrate of 74% against ELF OpenGo (developed by Facebook), the state-of-the-art open-sourced AlphaZero with 20-block Network then. 
+  - In addition, this method can also save 10+ times computing resources. 
+  - The result was presented in AAAI 2020 (Oral Presentation 453/7737 ~= 5.85%). Also see [publications [C 83]][publications].
+- Proposed a technique to learn AlphaZero faster, namely learning to stop, presented in AAAI 2021 (Acceptance rate: 1,692/7,911 ~= 21.4%). Also see [publications [C 88]][publications].
+- Develop an AlphaZero framework.
   - On top of the framework, we have developed some game programs which can beat state-of-the-art programs, such as NoGo.
-- Develop a Dark Chess Zero program, a Zero program for stochastic games. Also see [publications [C 73]][publications].
-  - **Honor:** Won the Best Paper Award in TAAI 2018. Also see [honors].
+- Develop a Dark Chess AlphaZero program, an AlphaZero program for stochastic games. Also see [publications [C 73]][publications].
+  - Won the Best Paper Award in TAAI 2018. Also see [honors].
+- Develop game solving algorithms based on AlphaZero.
+  - Propose state-of-the-art algorithms for solving life-and-death (tsumegos) problems (like those in 趙治勳死活辭典). Also see [publications [C 92 93 105, J 76]][publications]
 
 ### Deep Reinforcement Learning for Robotics
 
@@ -45,21 +54,38 @@ List our research topics as well as achievements (since 2005).
 
 ### Deep Reinforcement Learning for AI bots of video games
 
-- Develop a distributed end-to-end DRL algorithm that can surpass human players for some specific video games.
-- Propose a new state presentation method that can characterize the perception on environmental changes of AI bot, which helps provide a way of interpretability.
+- Developed a distributed end-to-end DRL algorithm that can surpass human players for some specific video games.
+- Proposed a new state presentation method that can characterize the perception on environmental changes of AI bot, which helps provide a way of interpretability.
+- Proposed the ﬁrst metric for video game playstyles directly from the game observations and actions, without any prior speciﬁcation on the playstyle in the target game, and also proposed a human-like RL algorithm. 
+  - This method was presented in a top-tier conference, UAI 2021. Also see [publications [C 90 104]][publications].
+
+### Deep Reinforcement Learning for Autonomous Car Racing
+
+- Proposed an approach to running fast for car racing and raising stability at the same time. 
+  - This method was published in a workshop related to autonomous agile vehicles of IROS. Also see [publications [C 86 95 96 103]][publications].
+  - The 1st and 3rd places (among 90+ participants) in AWS DeepRacer Summit Taipei (台北實體賽)
+  - The 1st and 2nd places (among 1983 competitors) in Virtual Circuit Toronto Turnpike (虛擬賽) of AWS DeepRacer League, in October 2019. **Achieve a world record of 7.172 seconds**, noted in [the AWS web site](https://aws.amazon.com/tw/blogs/machine-learning/aws-deepracer-league-the-championship-lineup-is-complete-making-for-an-exciting-reinvent-2019-final/). 
+  -	The 3rd place among 60+ competitors (selected among 8000+ participants) in AWS re:Invent 2019 (世界賽) held in Las Vegas, 2019.
+  - **The 1st and 3rd places among competitors (selected among 10000+ participants) in 2020 Championship Cup of AWS DeepRacer League**.
+  - **The 1st, 2nd and 3rd places (top three) among 150,000+ participants in 2022 Championship Cup of AWS DeepRacer League**.
+
+
+### Reinforcement Learning for Other Games
+
+- Temporal Difference Learning for Connect6. Also see [publications [C 39, B 5]][publications].
+- Temporal Difference Learning for 2048. Also see [publications [J 41 52 68, C 56]][publications]. The algorithm in [J 69] reached state-of-the-art. 
+- Monte-Carlo Tree Search, which are included in most of our developed game programs (see below) and our FJSP work (see below).
+
+### Reinforcement Learning for combinational optimization problems, such as job-shop scheduling.
+
+- Propose new RL algorithms for job-shop scheduling. See also [publications [C 52 64 80 101, R 23]][publications].
 
 ### Deep Learning
 
 - Propose a new stochastic gradient descent with hyperbolic-tangent decay. Also see [publications [C 75]][publications].
 - Use deep learning to predict sleep quality from wearable data.
 
-### Reinforcement Learning for Games
-
-- Temporal Difference Learning for Connect6. Also see [publications [C 39, B 5]][publications].
-- Temporal Difference Learning for 2048. Also see [publications [J 41 52, C 56]][publications].
-- Monte-Carlo Tree Search, which are included in most of our developed game programs (see below) and our FJSP work (see below).
-
-**Note: since the progress in this part has been made so fast, the research topics and achievements described here may not be up to date. Please directly consult with lab members for the latest research in more detail.**
+Note: since the progress in this part has been made so fast, the research topics and achievements described here may not be up to date. Please directly consult with lab members for the latest research in more detail.
 
 ---
 
@@ -101,8 +127,8 @@ List our research topics as well as achievements (since 2005).
     - **Honor:** Still won the gold medal in Computer Olympiad 2013. Also see [honors].
   - NCTU6 was used to help build Connect6 puzzle generator (in [Connect6]).
 - Develop game-playing programs for Chinese chess.
-  - Some new techniques were developed, including M&M, Dynamic Tree Splitting for parallelization, etc. Also see [publications [C 47]][publications].
-  - **Honor:** A developed program, named Chimo (棋謀), at about 7-8 dan, won silver medals in the past three Computer Olympiad. Also see [honors].
+  - Some new techniques were developed, including M&M, Dynamic Tree Splitting for parallelization, etc. Also see [publications [C 47, J 64]][publications].
+  - **Honor:** A developed Chinese chess program, named Chimo (棋謀), won a gold medal in Computer Olympiad 2017. Also see [honors].
 - Develop game-playing programs for Go.
   - Some new techniques were developed, including MCTS, RAVE, MCTS parallelism, supervised learning (SL) policy network, reinforcement learning (RL) policy network, value network (VN), etc.
   - **Honor:** A developed program, named HappyGo, won the silver medal in TAAI 2010 tournament.
@@ -117,7 +143,7 @@ List our research topics as well as achievements (since 2005).
   - **Honor:** Another developed program, named PohsuanNoGo, won the silver medal in the same NoGo tournament of Computer Olympiad in 2013. Also see [honors].
   - **_More information about our NoGo program can be found in [here](aigames/NoGo.html)._**
 
-### Game-playing programs for imperfect information games
+### Game-playing programs for imperfect information and stochastic games 
 
 - Develop game-playing programs for Mahjong.
   - Some new techniques were developed, including PO-MDP (partially observable Markov decision process), etc.
@@ -135,109 +161,12 @@ List our research topics as well as achievements (since 2005).
 ### Game-playing programs for puzzle games
 
 - Develop 2048-like AI games based on the technique of TD (temporal difference) learning.
-  - A new TD learning technique was developed to improve AI programs for 2048-like games. Also see [publications [J 41 52, C 56]][publications].
-  - **Achievement: The first 2048 AI program reached 65536-tile in the world, to the best of our knowledge.** See the [replay](http://2048.aigames.nctu.edu.tw/replay.php).
+  - Novel TD learning techniques were developed to improve AI programs for 2048-like games. Also see [publications [J 41 52 68, C 56]][publications].
+  - **Achievement: The first 2048 AI program reached 65536-tile in the world, to the best of our knowledge.** See the [replay](http://2048.cgilab.nctu.edu.tw/replay.php).
+  - state-of-the-art: [J 69] reached state-of-the-art, namely, **the reaching rate of 32,768 is up to 72%**. 
   - **Honor:** A 2048 AI program, named CGI-2048, won the second place in the 2048 group of Taiwan 2048 Bot Tournament in 2014. Also see [honors].  
-    The performance of CGI-2048 is still improving. The table (below) shows the performances of the early CGI-2048 (the one for the tournament),
-    the latest improved CGI-2048, and [Xificurk's program](https://github.com/nneonneo/2048-ai/pull/27). To the best of our knowledge, Xificurk's
-    outperformed all the known 2048 programs (see below) at the time before Octobor 2014. In November 2014, our latest CGI-2048 is able to perform better than Xificurk's.
-    More importantly, ours runs about 300 times faster.
-    <table align="center">
-    <thead>
-    <tr>
-    <th align="center"></th>
-    <th align="center">Early CGI-2048</th>
-    <th align="center">Xificurk's Program</th>
-    <th align="center">Latest CGI-2048</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td align="center">2048</td>
-    <td align="center">100.0%</td>
-    <td align="center">100.0%</td>
-    <td align="center">100.0%</td>
-    </tr>
-    <tr>
-    <td align="center">4096</td>
-    <td align="center">100.0%</td>
-    <td align="center">100.0%</td>
-    <td align="center">100.0%</td>
-    </tr>
-    <tr>
-    <td align="center">8192</td>
-    <td align="center">94%</td>
-    <td align="center">99.1%</td>
-    <td align="center">99.5%</td>
-    </tr>
-    <tr>
-    <td align="center">16384</td>
-    <td align="center">59%</td>
-    <td align="center">92.7%</td>
-    <td align="center">93.6%</td>
-    </tr>
-    <tr>
-    <td align="center">32768</td>
-    <td align="center">0%</td>
-    <td align="center">31.7%</td>
-    <td align="center">33.5%</td>
-    </tr>
-    <tr>
-    <td align="center">Max score</td>
-    <td align="center">367956</td>
-    <td align="center">829300</td>
-    <td align="center">833300</td>
-    </tr>
-    <tr>
-    <td align="center">Ave score</td>
-    <td align="center">251794</td>
-    <td align="center">442419</td>
-    <td align="center">446116</td>
-    </tr>
-    <tr>
-    <td align="center">Speed</td>
-    <td align="center">1200 moves/sec</td>
-    <td align="center">2-3 moves/sec</td>
-    <td align="center">661 moves/sec</td>
-    </tr>
-    </tbody></table>
   - **_More information about our 2048 program can be found in [here](aigames/2048.html)._**
   - **Honor:** A Threes! AI program, named CGI-Threes, won the first place in the Threes group of Taiwan 2048 Bot Tournament in 2014. Also see [honors].
-    To the best of our knowledge (in August 2014), our program outperforms all the known Threes AI program. Its performance is as follows.
-    <table align="center">
-    <tbody><tr> 
-    <td>384 </td> 
-    <td>100%</td> 
-    </tr> 
-    <tr> 
-    <td>768 </td> 
-    <td>100%</td> 
-    </tr> 
-    <tr> 
-    <td>1536 </td> 
-    <td>97.2%</td> 
-    </tr> 
-    <tr> 
-    <td>3072 </td> 
-    <td>68.6%</td> 
-    </tr> 
-    <tr> 
-    <td>6144 </td> 
-    <td>10.8%</td> 
-    </tr> 
-    <tr> 
-    <td>Max score</td> 
-    <td>790,416</td> 
-    </tr> 
-    <tr> 
-    <td>Ave score</td> 
-    <td>229,717</td> 
-    </tr> 
-    <tr> 
-    <td>Speed</td> 
-    <td>About 300 moves/sec</td> 
-    </tr> 
-    </tbody></table>
   - **Honor:** Won the Best Paper Award in TAAI 2014. Also see [honors].
 - Develop puzzle game solvers.
   - Some new techniques were developed, including fully-probing techniques, line-painting, etc. Also see [publications [J 22 28 30 38 39, C 37 44]][publications].

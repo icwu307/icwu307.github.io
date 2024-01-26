@@ -3,12 +3,15 @@
 
 # I-Chen Wu (English, [中文](ch_index.html))
 
-Professor, [Department of Computer Science][nctu_cs], [National Chiao-Tung University][nctu].  
+Distinguished Professor and Associate Dean, [College of Computer Science][nctu_cs], [National Yang Ming Chiao Tung University][nctu].  
+Joint Appointment Professor/Research Fellow (合聘教授/研究員), [CITI][citi], [Academia Sinica][sinica].  
 Vice President, [International Computer Games Association (ICGA)][icga].  
-President, [Taiwan Computer Games Association (TCGA)][tcga]
+<!-- 
+President, [Taiwan Computer Games Association (TCGA)][tcga].
+Research Fellow and Executive Officer of AI Computing Center, [Research Center for IT Innovation][citi], [Academia Sinica][sinica]. ([my link at Sinica][myciti]) -->  
 
 </div>
-<img src="assets/ic_small.gif">
+<img src="assets/nctu-icwu.jpg" width=120>
 </div>
 
 ---
@@ -18,6 +21,10 @@ President, [Taiwan Computer Games Association (TCGA)][tcga]
 - [Connect6] homepage.
 - Pages in Wikipedia: [I-Chen Wu][icwu_wiki] and the game [Connect6][connect6_wiki]
 - [My Facebook][icwu_facebook].
+
+---
+
+**Welcome to join us (CGI lab at NCTU/Sinica), as M.S./Ph.D. students, Research Assistants, Postdocs. If interested, please contact me or Cindy Ko <cindyko@nycu.edu.tw>.** 
 
 ---
 
@@ -34,16 +41,23 @@ President, [Taiwan Computer Games Association (TCGA)][tcga]
 - Includes my education background and academic/professional/consulting experiences.
 
 ### Selective honors: ([complete][honors])
-
-- 2019: Won the 1st, 3rd, 5th, 7th places in AWS DeepRacer (Taipei) sponsored by Amazon.
-- 2018: Received AI Academic Research Award from the PAIR Center of MOST (Ministry of Science and Technology of Taiwan).
-- 2018: Received FutureTech Award from MOST.
-- 2018: Won the Best Paper Award in the 2018 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2018).
+- 2023: FutureTech Award from NSTC.
+- 2022: Won the top three in [2022 AWS DeepRacer Championship][awsfinal2022] (among about 150,000 participants). 
+- 2021: FutureTech Award from MOST.
+- 2021: [MOST Outstanding Research Award][most-outstanding], Ministry of Science and Technology (MOST), Taiwan 
+- 2021: [IICM Medal of Honor][iicm], Institute of Information & Computing Machinery (IICM)
+- 2020: 1st and 3rd places in [2020 Championship Cup of AWS DeepRacer League][awsfinal2020]. 
+- 2019: 3rd place in [AWS re:Invent 2019 (world final)][awsfinal] held in Las Vegas.
+- 2019: 1st, 3rd, 5th, 7th places in AWS DeepRacer (Taipei) sponsored by Amazon.
+- 2018: AI Academic Research Award from the PAIR Center of MOST (Ministry of Science and Technology of Taiwan).
+- 2018: Award of Futuristic Breakthrough Technology from MOST.
+- 2018: The Best Paper Award in the 2018 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2018).
+- 2017: Award of Futuristic Breakthrough Technology from MOST.
 - 2017: CGI was awarded a 10-dan title from Fox Weiqi website.
 - 2017: Received NT\$6,600,000 donation from HaiFong Weichi Foundation, Taiwan.
 - 2017: Won the second place in ["CITIC Securities Cup", the 1st World AI Go Open](http://www.intergofed.org/igf-news-feed/2017-citic-securities-cup-the-1st-world-ai-go-open.html), held in Ordos, Inner Mongolia, China. Also won all games during the day-1 preliminary, including beating FineArt (developed by Tencent Inc.) and DeepZenGo, and received a prize of RMB\$100,000.
 - 2017: Won two games against Chun-Hsun Chou (9p) in IEEE FUZZ 2017 Go competitions. The first Go program developed at academic institutes winning professional 9 dan players in formal competitions.
-- 2017: Won six golds (Dark chess, Mahjong, Go 9x9, Go 13x13, Chinese chess, Einstein) and one silver (Go 19x19) and one bronze (Othello) in [the 20th Computer Olympiad][icga].
+- 2017: Six gold medals (Dark chess, Mahjong, Go 9x9, Go 13x13, Chinese chess, Einstein) and one silver (Go 19x19) and one bronze (Othello) in [the 20th Computer Olympiad][icga]. Note: won up to 33 golds in total up to 2020. 
 
 ### [Teaching Courses][courses]
 
@@ -53,6 +67,7 @@ President, [Taiwan Computer Games Association (TCGA)][tcga]
 ### Laboratory
 
 - [Computer Games and Intelligence Lab][cgi_lab] (abbr. CGI Lab)
+- [Facebook of CGI Lab][cgi_lab_fb]
 
 ---
 
@@ -60,12 +75,13 @@ President, [Taiwan Computer Games Association (TCGA)][tcga]
 
 > I-Chen Wu, Professor  
 > Department of Computer Science  
-> National Chiao-Tung University  
+> National Yang Ming Chiao Tung University  
 > Hsin-Chu, Taiwan
 
 > TEL: +886-3-5731855  
 > FAX: +886-3-5733777  
-> Email: <icwu@cs.nctu.edu.tw>
+> Email: <icwu@cs.nctu.edu.tw>  
+> Assistant: Cindy Ko <cindyko@nycu.edu.tw>
 
 [about]: about.html
 [honors]: honors.html
@@ -73,12 +89,21 @@ President, [Taiwan Computer Games Association (TCGA)][tcga]
 [research]: research.html
 [publications]: publications.html
 [achievements]: research.html#research-topics-and-achievements
-[cgi_lab]: http://www.aigames.nctu.edu.tw/
-[nctu]: https://www.nctu.edu.tw/
-[nctu_cs]: https://www.cs.nctu.edu.tw/cswebsite/
+[cgi_lab]: https://cgilab.nctu.edu.tw/
+[cgi_lab_fb]: https://www.facebook.com/lab.cgi.7
+[citi]: https://www.citi.sinica.edu.tw/
+[sinica]: https://www.sinica.edu.tw/
+[nctu]: https://www.nycu.edu.tw/
+[nctu_cs]: https://www.cs.nycu.edu.tw/
 [connect6]: http://www.connect6.org/
 [connect6_wiki]: http://en.wikipedia.org/wiki/Connect6
 [icwu_wiki]: http://en.wikipedia.org/wiki/I-Chen_Wu
 [icwu_facebook]: https://www.facebook.com/icwu307
 [icga]: https://icga.org/
 [tcga]: http://tcga.ndhu.edu.tw/
+[awsfinal]: https://www.inside.com.tw/article/18289-Taiwan-NCTU-CGI-student-wins-AWS-DeepRacer-League-bronze-medal
+[awsfinal2020]: https://aws.amazon.com/tw/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/
+[myciti]: https://www.citi.sinica.edu.tw/pages/icwu/index_zh.html
+[iicm]: http://www.iicm.org.tw/about/award.asp
+[most-outstanding]: https://www.most.gov.tw/folksonomy/list/554e3625-b1d7-4a0d-9a70-2ffc81c90ab3?l=ch
+[awsfinal2022]:https://www.youtube.com/watch?v=T8y-pQ14qGg

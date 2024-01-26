@@ -225,5 +225,6 @@ Even though we won almost all competitions (human or computers), we still kept i
 </tbody>
 </table>
 
-
-</body></html>
+[cgi_lab]: https://cgilab.nctu.edu.tw
+[icwu]: ..
+[nctu_cs]: https://www.cs.nctu.edu.tw/cswebsite
