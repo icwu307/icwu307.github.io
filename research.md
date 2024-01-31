@@ -162,7 +162,7 @@ Note: since the progress in this part has been made so fast, the research topics
 
 - Develop 2048-like AI games based on the technique of TD (temporal difference) learning.
   - Novel TD learning techniques were developed to improve AI programs for 2048-like games. Also see [publications [J 41 52 68, C 56]][publications].
-  - **Achievement: The first 2048 AI program reached 65536-tile in the world, to the best of our knowledge.** See the [replay](http://2048.cgilab.nctu.edu.tw/replay.php).
+  - **Achievement: The first 2048 AI program reached 65536-tile in the world, to the best of our knowledge.** <!-- See the [replay](http://2048.cgilab.nctu.edu.tw/replay.php). -->
   - state-of-the-art: [J 69] reached state-of-the-art, namely, **the reaching rate of 32,768 is up to 72%**. 
   - **Honor:** A 2048 AI program, named CGI-2048, won the second place in the 2048 group of Taiwan 2048 Bot Tournament in 2014. Also see [honors].  
   - **_More information about our 2048 program can be found in [here](aigames/2048.html)._**
