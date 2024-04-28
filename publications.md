@@ -4,7 +4,7 @@
 
 (SCI journals only)
 
-1. Kuo-Hao Ho, Jui-Yu Cheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, and *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", accepted by IEEE Access, 2024.
+1. Kuo-Hao Ho, Jui-Yu Cheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, and *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", IEEE Access, vol. 12, pp. 14703-14718, 2024.
 1. Po-Ting Chen, Chien-Lianga Kuo, De-Rong Sung, Hung Guei, *I-Chen Wu*, "MuMu Won the EinStein Würfelt Nicht! Tournament", ICGA Journal, December 2023. 
 1. Zachary Strumpf, Wenbo Gu, Chih-Wei Tsai, Pai-Lien Chen, Eric Yeh, Lydia Leung, Cynthia Cheung, *I-Chen Wu*, Kingman Strohl,  Tiffany Tsai, Rodney J. Folz, Ambrose Chiang, "Belun Ring (Belun Sleep System BLS-100): Deep learning-facilitated wearable enables obstructive sleep apnea detection, apnea severity categorization, and sleep stage classification in patients suspected of sleep apnea", Sleep Health Journal,Volume 9, Issue 4, August 2023, Pages 430-440. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", accepted by the IEEE Transactions on Games, 2023. 
