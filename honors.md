@@ -236,8 +236,10 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
-- 2023: Hung Guei received the best Ph.D. dissertation award from IEEE Taipei Section.
+- 2024: Hung Guei received the best Ph.D. dissertation award from IEEE Taipei Section.
   - 桂浤，榮獲IEEE 台北分會最佳博士論文獎。 
+- 2023: Hung Guei received the Ph.D. dissertation honorable mention award from IICM (Institute of Information & Computing Machinery).
+  - 桂浤，榮獲中華民國資訊學會最佳博士論文獎佳作。 
 - 2023: Hung Guei received the best Ph.D. dissertation award from TAAI association.
   - 桂浤，榮獲中華民國人工智慧學會最佳博士論文獎。 
 - 2023: Hung Guei received the best Ph.D. dissertation award from TCGA association.
