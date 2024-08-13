@@ -68,6 +68,7 @@
 ### Committee
 
 - Technical Program Committee (or reviewers of top-conferences): ICLR 2022 ~, ICML 2021 ~, NeurIPS 2020 ~, AAAI 2020 ~, IJCAI 2018 ~ 2020, IEEE CIG 2013 ~ 2018, IEEE COG 2019 ~ (Associate Chair for IEEE COG 2023), ACG/CG 2005 ~, SC2 2011 ~ , TAAI 2010 ~, TCGA 2010 ~, IRC 2018, MCS workshop 2020, etc.
+- Area Chair: ICML 2024. Senior PC: AAAI 2024. 
 - Advisory Committee: TAAI 2019~, TCGA Computer Game Tournaments 2014-2017, TAAI Computer Game Tournaments 2014-2018, EITA, etc.
 - Evaluation committee: Nominations Chess Base Best Publication Award (2010 ~ 2014); MOST Project Evalution Board (複審委員); IEET 主審; 旺宏科學獎主審 (2016 ~); 台灣人工智慧學校課程諮詢委員(2021-2022); 國家高速網路與計算中心諮詢委員(2022-). 
 
@@ -121,7 +122,7 @@
 - 2021: Invited talk for Taiwan AI Academy, 友達學院, 群創光電 AI 經理人班, 中研院統計所, 台灣人工智慧年會暨 AI 技術應用論壇. 
 - 2022: 陽明交大-綠能學院, 陽明交大-工業工程系, Invited talk for Taiwan AI Academy, keynote of 第18屆軍事作業研究與模式模擬論壇, 元智大學.
 - 2023: Keynote of AWS re:Invent 2022 re:Cap, 陽明交大-綠能學院, the Augmented Intelligence and Interaction (AII) Workshop, Keynote of AUAI, 中華電信.
-
+- 2024: 臺北榮民總醫院, 臺南大學, TSMC (台積電), 經濟部-高階人員領導班, 聯發科-進階課程, 數位政府高峰會, 中央大學, 暨南大學
 
 ---
 
