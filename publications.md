@@ -4,11 +4,13 @@
 
 (SCI journals only)
 
-1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, Ting Han Wei, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", accepted by Transactions on Machine Learning Research (TMLR), 2024. 
-1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", accepted by Transactions on Machine Learning Research (TMLR), 2024. 
+1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", accepted by Transactions on Machine Learning Research (TMLR), 2024. 
+1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", accepted by Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
 1. Kuo-Hao Ho, Jui-Yu Cheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, and *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", IEEE Access, vol. 12, pp. 14703-14718, 2024.
-1. Po-Ting Chen, Chien-Lianga Kuo, De-Rong Sung, Hung Guei, *I-Chen Wu*, "MuMu Won the EinStein Würfelt Nicht! Tournament", ICGA Journal, December 2023. 
+1. Po-Ting Chen, Chien-Liang Kuo, De-Rong Sung, Hung Guei, *I-Chen Wu*, "MuMu Won the EinStein Würfelt Nicht! Tournament", ICGA Journal, December 2023. 
 1. Zachary Strumpf, Wenbo Gu, Chih-Wei Tsai, Pai-Lien Chen, Eric Yeh, Lydia Leung, Cynthia Cheung, *I-Chen Wu*, Kingman Strohl,  Tiffany Tsai, Rodney J. Folz, Ambrose Chiang, "Belun Ring (Belun Sleep System BLS-100): Deep learning-facilitated wearable enables obstructive sleep apnea detection, apnea severity categorization, and sleep stage classification in patients suspected of sleep apnea", Sleep Health Journal,Volume 9, Issue 4, August 2023, Pages 430-440. 
+1.	Hiroyuki Iida, Jonathan Schaeffer, *I-Chen Wu*, "The 2023 Computer Olympiad", ICGA Journal, Vol. 45, No. 2-3, pp. 61-78, September 2023. 
+1.	S.-C. Tang, *I-C. Wu* and J.-C. Chen, MEOWCATS won the Mahjong tournament, ICGA Journal, Vol. 45, No. 2-3, pp. 85-89, September 2023. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", accepted by the IEEE Transactions on Games, 2023. 
 1. Yu Hsien Lin, Tsung-Lin Wu, Chao-Ming Yu, *I-Chen Wu*, "Development of an Intelligent Underwater Recognition System Based on the Deep Reinforcement Learning Algorithm in an Autonomous Underwater Vehicle", Measurement, Vol 214, June 2023. 
 1. Hsueh-Cheng Wang, Siao-Cing Huang, Po-Jui Huang, Kuo-Lun Wang, Yi-Chen Teng, Yu-Ting Ko, Dongsuk Jeon, *I-Chen Wu*, "Curriculum Reinforcement Learning from Avoiding Collisions to Navigating among Movable Obstacles in Diverse Environments", IEEE Robotics and Automation Letters, Vol. 8, No. 5, pp. 2740-2747, May 2023. 
@@ -92,11 +94,14 @@
 
 (International conferences only)
 
+1. Jr-Chang Chen, Shih-Chieh Tang, *I-Chen Wu*, "A Lookup Table for Deficiency Number Calculation in Mahjong", the 2024 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2024), Taiwan, December 2024. 
+1. Yun-Jui Tsai, Ting Han Wei, Chi-Huang Lin, Chung-Chin Shih, Hung Guei, *I-Chen Wu* and Ti-Rong Wu, "Solving 7x7 Killall-Go with Seki Database", the International Conference on Computers and Games (CG 2024), November, 2024.
+1. Yen-Yi Chen, Chung-Chin Shih, Ti-Rong Wu and *I-Chen Wu*, and Ting-Han Wei, "Exploring Openings in AtariGo", International Computer Symposium (ICS 2024), Hsinchu, Taiwan, November 2024.
 1. Nhat-Minh Huynh, Hoang-Giang Cao,  *I-Chen Wu*, Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach, Workshop on Game AI Algorithms and Multi-Agent Learning at the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024), Jeju, Korea, July 2024.
 1. I Lee, Hoang-Giang Cao, Cong-Tinh Dao, Yu-Cheng Chen, *I-Chen Wu*, "Gradient-based Regularization for Action Smoothness in Robotic Control with Reinforcement Learning", **2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, October 2024.
 1. Nai-Chieh Hunag, Ping-Chun Hsieh, Kuo-Hao Ho, and *I-Chen Wu*, "PPO-Clip Attains Global Optimality: Towards Deeper Understandings of Clipping," **the Thirty-Eightth AAAI Conference on Artificial Intelligence (AAAI-24), Vancouver, 2024. (Acceptance rate = 23.75%)**
 1. Ti-Rong Wu, Hung Guei, Tinghan Wei, Chung-Chin Shih, Jui-Te Chin, *I-Chen Wu*, "Game Solving with Online Fine-Tuning", the **Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)**, New Orleans, December 2023. (Acceptance rate: 26.1% among 12343)
-1. Chien-Liang Kuo, Po-Ting Chen, Hung Guei, De-Rong Sung, Chu-Hsuan Hsueh, Ti-Rong Wu, *I-Chen Wu*, "An Empirical Analysis of Gumbel MuZero on Stochastic and Deterministic Einstein Würfelt Nicht!," the 2023 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2023), Taiwan, December 2022. 
+1. Chien-Liang Kuo, Po-Ting Chen, Hung Guei, De-Rong Sung, Chu-Hsuan Hsueh, Ti-Rong Wu, *I-Chen Wu*, "An Empirical Analysis of Gumbel MuZero on Stochastic and Deterministic Einstein Würfelt Nicht!," the 2023 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2023), Taiwan, December 2023. 
 1. Kuo-Hao Ho, Ping-Chun Hsieh, Chiu-Chou Lin, You-Ren Luo, Feng-Jian Wang, *I-Chen Wu*, "Towards Human-Like RL: Taming Non-Naturalistic Behavior in Deep RL via Adaptive Behavioral Costs in 3D Games", **Asian Conference on Machine Learning (ACML 2023)**, Istanbul, Novemeber 2023. (Acceptance rate: 114/333 = 34.2%)
 1. Hoang-Giang Cao, I Lee, Bo-Jiun Hsu, Zheng-Yi Lee, Yu-Wei Shih, Hsueh-Cheng Wang, *I-Chen Wu*, "Image-based Regularization for Action Smoothness in Autonomous Miniature Racing Car with Deep Reinforcement Learning", **2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Detroit, October 2023. (Acceptance rate: 1196/2760 = 43.3%)
 1. Hsueh-Cheng Wang, Siao-Cing Huang, Po-Jui Huang, Kuo-Lun Wang, Yi-Chen Teng, Yu-Ting Ko, Dongsuk Jeon, *I-Chen Wu*, Curriculum Reinforcement Learning from Avoiding Collisions to Navigating among Movable Obstacles in Diverse Environments, **2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Detroit, October 2023. (Acceptance rate: 1196/2760 = 43.3%)
@@ -241,6 +246,7 @@
 
 ## Archived Papers (at https://arxiv.org) (R)
 
+1. Tai-Lin Wu, Ti-Rong Wu, Chung-Chin Shih, Yan-Ru Ju, *I-Chen Wu*, "ResTNet: Defense against Adversarial Policies via Transformer in Computer Go", arXiv:2410.05347, September 2023.
 1. Kuo-Hao Ho, Ruei-Yu Jheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", arXiv:2309.15517, September 2023.
 1. Kuo-Hao Ho, Ping-Chun Hsieh, Chiu-Chou Lin, You-Ren Luo, Feng-Jian Wang, *I-Chen Wu*, "Towards Human-Like RL: Taming Non-Naturalistic Behavior in Deep RL via Adaptive Behavioral Costs in 3D Games", arXiv:2309.15484, September 2023.
 1. Hoang-Giang Cao, I Lee, Bo-Jiun Hsu, Zheng-Yi Lee, Yu-Wei Shih, Hsueh-Cheng Wang, *I-Chen Wu*, "Image-based Regularization for Action Smoothness in Autonomous Miniature Racing Car with Deep Reinforcement Learning", arXiv:2307.08230, July 2023

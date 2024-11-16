@@ -40,24 +40,21 @@
 - 含教育背景、專業經驗、顧問經驗
 
 ### 摘錄榮譽事蹟（[完整][honors]、[新聞報導][news]）
-- 2023︰國科會 (NSTC) 未來科技獎. 
-- 2022: 在 Las Vegas 舉辦的 [AWS DeepRacer 2022 世界賽][awsfinal2022] 囊括前三名.
-- 2021︰科技部 (MOST) 未來科技獎. 
+- 2017, 2018, 2021, 2023︰國科會/科技部 未來科技獎. 
+- 2022: 在 Las Vegas 舉辦的 [AWS DeepRacer 2022 世界賽][awsfinal2022] 囊括前三名(參賽:~15萬).
 - 2021：[109年度科技部傑出研究獎][most-outstanding]
 - 2021：[中華民國資訊學會 資訊榮譽獎章][iicm]
 - 2020：[AWS DeepRacer 2020 世界賽第1,3名][awsfinal2020]
 - 2019：Amazon 在 Las Vegas 舉辦的 [AWS re:Invent 2019 (世界賽) 第 3 名][awsfinal]
 - 2019：Amazon 舉辦的 AWS DeepRacer 台灣區第 1, 3名
 - 2018︰科技部普適 AI 研究中心 (PAIR) 頒 "AI學術研究獎". 
-- 2018︰科技部 (MOST) 未來科技獎. 
 - 2018︰TAAI 2018 會議之最佳論文獎
-- 2017︰科技部 (MOST) 未來科技獎. 
 - 2017︰CGI 圍棋程式獲得中國野狐網站十段頭銜（繼絕藝、DeepZenGo 後全世界第三個 AI 獲得此頭銜）
 - 2017︰培生文教基金會和海峰棋院捐助 660 萬元
 - 2017︰在中國內蒙古鄂爾多斯市舉辦的 [2017 中信證券杯首屆世界智能圍棋公開賽競賽](http://www.intergofed.org/igf-news-feed/2017-citic-securities-cup-the-1st-world-ai-go-open.html)，CGI 圍棋程式榮獲亞軍，並於首日預賽全勝，包括擊敗絕藝（騰訊公司所開發）、DeepZenGo，並獲得獎金 10 萬人民幣
 - 2017︰在 IEEE FUZZ 2017 圍棋人機賽中，CGI 圍棋程式二戰二勝周俊勳九段（紅面棋王）
 - 2017︰圍棋人工智慧與物聯網大會人機配對賽（中韓台）冠軍 
-- 2017︰[第二十屆奧林匹亞電腦賽局競賽][icga]榮獲六金（Dark chess、Mahjong、Go 9x9、Go 13x13、Chinese chess、Einstein）、一銀（Go 19x19）、一銅（Othello）。(註: 至2020年, 共獲得33面金牌)
+- 2006-2024︰[奧林匹亞電腦賽局競賽][icga]總計獲46面金牌
 
 
 ### [開授課程][courses]

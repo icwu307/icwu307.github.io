@@ -2,6 +2,10 @@
 
 [(News Coverage in Chinese; 新聞報導)][news]
 
+- 2024: Received STI A* Awards with Chang-Chi Meng and Hung-Rui Huang
+  - 2024年 資策會軟體院前瞻技術獎 (孟昶緻、黃竑睿)
+- 2024: Won two gold (Dark Chess, Mahjong) in [ICGA Computer Olympiad 2024][icga]. 
+  - [2024年 ICGA 奧林匹亞電腦賽局競賽][icga]榮獲兩金(Dark Chess, Mahjong)
 - 2023: Received FutureTech Award from National Science and Technology Council (NSTC, aka MOST), 2023.
   - **獲國科會 (NSTC, aka 科技部) 未來科技獎.**
 - 2023: Won four gold (Go 9x9, Mahjong, Connect6, Einstein) in [the 26th Computer Olympiad][icga]. 
