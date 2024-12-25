@@ -240,11 +240,13 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
+- 2024: Chung-Chin Shih received the best Ph.D. dissertation award from IEEE Taipei Section.
+  - 施仲晉，榮獲IEEE 台北分會最佳博士論文獎。 
 - 2024: Chung-Chin Shih received the best Ph.D. dissertation award from TCGA association.
   - 施仲晉，榮獲台灣電腦對局學會最佳博士論文獎。 
 - 2024: Jui-Te Chin received the best M.S. dissertation award from TCGA association.
   - 秦睿德，榮獲台灣電腦對局學會最佳碩士論文獎。 
-- 2024: Hung Guei received the best Ph.D. dissertation award from IEEE Taipei Section.
+- 2023: Hung Guei received the best Ph.D. dissertation award from IEEE Taipei Section.
   - 桂浤，榮獲IEEE 台北分會最佳博士論文獎。 
 - 2023: Hung Guei received the Ph.D. dissertation honorable mention award from IICM (Institute of Information & Computing Machinery).
   - 桂浤，榮獲中華民國資訊學會最佳博士論文獎佳作。 
