@@ -242,6 +242,8 @@ Jin-Bo Huang (7th))
 
 - 2024: Chung-Chin Shih received the best Ph.D. dissertation award from IEEE Taipei Section.
   - 施仲晉，榮獲IEEE 台北分會最佳博士論文獎。 
+- 2024: Chung-Chin Shih received the Ph.D. dissertation honorable mention award from TAAI association.
+  - 施仲晉，榮獲IEEE 台北分會最佳博士論文獎。 
 - 2024: Chung-Chin Shih received the best Ph.D. dissertation award from TCGA association.
   - 施仲晉，榮獲台灣電腦對局學會最佳博士論文獎。 
 - 2024: Jui-Te Chin received the best M.S. dissertation award from TCGA association.

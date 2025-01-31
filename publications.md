@@ -4,6 +4,7 @@
 
 (SCI journals only)
 
+1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", accepted by the IEEE Transactions on Games, January, 2025.
 1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", accepted by Transactions on Machine Learning Research (TMLR), 2024. 
 1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", accepted by Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", the IEEE Transactions on Games, Vol. 16, No. 2, pp 282-290, June 2024. 
@@ -94,8 +95,9 @@
 
 (International conferences only)
 
-1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)
-1. Hsin-Yi Hsieh, Shang-Wei Liu, Chih-Chang Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, and *I-Chen Wu*, "TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life", he First Workshop on Evaluation of Multi-Modal Generation (EvalMG25) in the 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 2025. 
+1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**
+1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "An Efficient Method for Assessing the Strength of Mahjong Programs", the 17th International Conference on Agents and Artificial Intelligence (ICAART), Portugal, February 2025.
+1. Hsin-Yi Hsieh, Shang-Wei Liu, Chih-Chang Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, and *I-Chen Wu*, "TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life", the First Workshop on Evaluation of Multi-Modal Generation (EvalMG25) in the 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 2025. 
 1. Jr-Chang Chen, Shih-Chieh Tang, *I-Chen Wu*, "A Lookup Table for Deficiency Number Calculation in Mahjong", the 2024 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2024), Taiwan, December 2024. 
 1. Yun-Jui Tsai, Ting Han Wei, Chi-Huang Lin, Chung-Chin Shih, Hung Guei, *I-Chen Wu* and Ti-Rong Wu, "Solving 7x7 Killall-Go with Seki Database", the International Conference on Computers and Games (CG 2024), November, 2024.
 1. Yen-Yi Chen, Chung-Chin Shih, Ti-Rong Wu and *I-Chen Wu*, and Ting-Han Wei, "Exploring Openings in AtariGo", International Computer Symposium (ICS 2024), Hsinchu, Taiwan, November 2024.
