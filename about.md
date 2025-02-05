@@ -97,7 +97,7 @@
 - 2011 ~ : Member of Games Technical Committee (GTC) of IEEE Computational Intelligence Society (CIS).
 - 2019 ~ 2020: Executive Supervisor, Taiwanese Association for Artificial Intelligence. (中華民國人工智慧學會常務監事)
 - 2017 ~ 2018: Supervisor, Taiwanese Association for Artificial Intelligence. (中華民國人工智慧學會監事)
-- 2011 ~ 2016: Director, [Institute of Multimedia Engineering](https://www.ccs.nctu.edu.tw/en/department/institute_multimedia.php), [National Chiao Tung University][nctu]. (交大多媒體工程研究所所長)
+- 2011 ~ 2016: Director, [Institute of Multimedia Engineering](https://www.ccs.nycu.edu.tw/en/department/institute_multimedia.php), [National Chiao Tung University][nctu]. (交大多媒體工程研究所所長)
 - 2013 ~ 2014: Executive Council Member, Taiwanese Association for Artificial Intelligence. (中華民國人工智慧學會常務理事)
 - 2011 ~ : Standing Council Member, Taiwan Computer Game Association (TCGA). (台灣電腦對局學會常務理事)
 - 2011 ~ 2015: Committee Member, Cloud Systems committee, Cloud Computing Association in Taiwan. (台灣雲端運算產業協會)

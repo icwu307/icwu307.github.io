@@ -77,7 +77,7 @@ Research Fellow and Executive Officer of AI Computing Center, [Research Center f
 
 > TEL: +886-3-5731855  
 > FAX: +886-3-5733777  
-> Email: <icwu@cs.nctu.edu.tw>  
+> Email: <icwu@cs.nycu.edu.tw>  
 > Assistant: Cindy Ko <cindyko@nycu.edu.tw>
 
 [about]: about.html
