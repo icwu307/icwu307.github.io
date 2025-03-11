@@ -130,9 +130,68 @@
 
 ## Consulting Experiences
 
-### Companies and Organizations
+- Organizations: 
+  - 國科會（包括學門複審委員、「晶創臺灣推動辦公室」專家）
+  - 經濟部（包括主審）: ASSTD, SIIR, SBIR, 主導性新產品等
+  - 考試院、工研院、資策會、中華電信所、中山科學院、台灣省勞工局、園區管理局等
+  - 中華工程教育學會(IEET認證委員)
+  - 財團法人中華民國證券櫃檯買賣中心
+- Companies: (Omitted.)
 
-(Omitted.)
+
+<!-- 
+
+<p>Organizations Abroad: 
+
+<ul>
+  <li>IBM</li>
+  <li>Innomedia Inc. （創介）</li>   
+</ul>
+
+<p>Domestic Organizations (in Chinese): 
+
+<ul>
+	<li>鈊象科技</li>
+  <li>群想網路科技</li>
+  <li>新浪網（sina.com）</li>
+  <li>趨勢科技</li>
+  <li>桓碁科技</li>
+  <li>澄圓軟體</li>
+  <li>網擎資訊</li>
+  <li>中科全球電子商務</li>
+  <li>網宇國際</li>
+  <li>迅映科技</li>
+  <li>文佳科技</li>
+  <li>中美萬泰</li>
+  <li>華人商圈</li>
+  <li>富徠科技</li>
+  <li>蕃薯藤</li>
+  <li>尋夢園網站</li>
+  <li>阿達網</li>
+  <li>旅遊天地網</li>
+</ul>
+
+<p>政府或法人單位單位：主要為審查委員
+
+<ul>
+  <li>經濟部（包括主審）: ASSTD, SIIR, SBIR, 主導性新產品等</li>
+  <li>國科會（包括複審委員）</li>
+  <li>考試院（包括審題委員）</li>
+  <li>中華工程教育學會(IEET認證委員)</li>
+  <li>財團法人中華民國證券櫃檯買賣中心（包括審查委員）</li>
+  <li>工研院</li>
+  <li>資策會</li>
+  <li>中華電信所</li>
+  <li>中山科學院</li>
+  <li>台灣省勞工局</li>
+  <li>園區管理局</li>
+  <li>新竹市政府</li>
+  <li>新竹縣政府</li>
+  <li>苗栗縣政府</li>
+  <li>台中縣政府</li>
+  <li>台中市政府</li>
+</ul>
+-->
 
 [icwu]: .
 [citi]: https://www.citi.sinica.edu.tw/

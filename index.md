@@ -5,6 +5,7 @@
 
 Distinguished Professor and Associate Dean, [College of Computer Science][nctu_cs], [National Yang Ming Chiao Tung University][nctu].  
 Joint Appointment Professor/Research Fellow (合聘教授/研究員), [CITI][citi], [Academia Sinica][sinica].  
+Visiting Professor, [Kochi University of Technology][kut], Japan.  
 Vice President, [International Computer Games Association (ICGA)][icga].  
 <!-- 
 President, [Taiwan Computer Games Association (TCGA)][tcga].
@@ -90,6 +91,7 @@ Research Fellow and Executive Officer of AI Computing Center, [Research Center f
 [cgi_lab_fb]: https://www.facebook.com/lab.cgi.7
 [citi]: https://www.citi.sinica.edu.tw/
 [sinica]: https://www.sinica.edu.tw/
+[kut]: https://www.kochi-tech.ac.jp/
 [nctu]: https://www.nycu.edu.tw/
 [nctu_cs]: https://www.cs.nycu.edu.tw/
 [connect6]: http://www.connect6.org/

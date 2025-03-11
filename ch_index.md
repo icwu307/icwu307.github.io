@@ -5,6 +5,7 @@
 
 [國立陽明交通大學資訊學院][nctu_cs] 特聘教授、副院長  
 [中央研究院資創中心][citi] 合聘研究員  
+[日本高知工科大學][kut] 客座教授  
 [國際電腦對局學會][icga]副理事長  
 <!--[台灣電腦對局學會][tcga]理事長
 [中央研究院][sinica][資訊科技創新研究中心][citi] 研究員 & AI專題中心執行長 ([link][myciti])  -->
@@ -87,6 +88,7 @@
 [cgi_lab_fb]: https://www.facebook.com/lab.cgi.7
 [citi]: https://www.citi.sinica.edu.tw/
 [sinica]: https://www.sinica.edu.tw/
+[kut]: https://www.kochi-tech.ac.jp/
 [nctu]: https://www.nycu.edu.tw/
 [nctu_cs]: https://www.cs.nycu.edu.tw/
 [connect6]: http://www.connect6.org/

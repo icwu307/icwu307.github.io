@@ -5,8 +5,8 @@
 (SCI journals only)
 
 1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", accepted by the IEEE Transactions on Games, January, 2025.
-1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", accepted by Transactions on Machine Learning Research (TMLR), 2024. 
-1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", accepted by Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
+1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", Transactions on Machine Learning Research (TMLR), August, 2024. 
+1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", the IEEE Transactions on Games, Vol. 16, No. 2, pp 282-290, June 2024. 
 1. Kuo-Hao Ho, Jui-Yu Cheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, and *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", IEEE Access, vol. 12, pp. 14703-14718, 2024.
 1. Po-Ting Chen, Chien-Liang Kuo, De-Rong Sung, Hung Guei, *I-Chen Wu*, "MuMu Won the EinStein Würfelt Nicht! Tournament", ICGA Journal, December 2023. 
@@ -228,6 +228,8 @@
 
 ## Patents
 
+1. US Patent:  
+   Chiu-Chou Lin, *I-Chen Wu*, Jung-Chang Kuo, Ying-Hau Wu, An-Lun Teng, Pei-Wen Huang, "Method for Training AI Bot In Computer Game", U.S. Patent No. US20220152512A1, granted on Feb 25, 2025. 
 1. Taiwan Patent:  
    王志維、賴傳霖、郭嘉真、*吳毅成*: 校正異常點雲資料之方法，中華民國專利證書第 I802827 號，2023 年 5 月 21 日至 2040 年 11 月 30 日
 1. US Patent:  
