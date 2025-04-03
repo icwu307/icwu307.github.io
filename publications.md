@@ -95,6 +95,7 @@
 
 (International conferences only)
 
+1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), May 2025. 
 1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**
 1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "An Efficient Method for Assessing the Strength of Mahjong Programs", the 17th International Conference on Agents and Artificial Intelligence (ICAART), Portugal, February 2025.
 1. Hsin-Yi Hsieh, Shang-Wei Liu, Chang-Chih Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, and *I-Chen Wu*, "TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life", the First Workshop on Evaluation of Multi-Modal Generation (EvalMG25) in the 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 2025. 
