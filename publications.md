@@ -93,7 +93,7 @@
 
 ## Conference Papers (C)
 
-(International conferences only)
+(International conferences only) 
 
 1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), May 2025. 
 1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**
