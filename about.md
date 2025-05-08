@@ -70,7 +70,7 @@
 ### Committee
 
 - Technical Program Committee (or reviewers of top-conferences): ICLR 2022 ~, ICML 2021 ~, NeurIPS 2020 ~, AAAI 2020 ~, IJCAI 2018 ~ 2020, IEEE CIG 2013 ~ 2018, IEEE COG 2019 ~, ACG/CG 2005 ~, SC2 2011 ~ , TAAI 2010 ~, TCGA 2010 ~, IRC 2018, MCS workshop 2020, etc.
-- Area Chair: ICML 2024. Senior PC: AAAI 2025; Associate Chair: IEEE COG 2023. 
+- Area Chair: ICML 2024 ~, NeurIPS 2025. Senior PC: AAAI 2025; Associate Chair: IEEE COG 2023. 
 - Advisory Committee: TAAI 2019~, TCGA Computer Game Tournaments 2014-2017, TAAI Computer Game Tournaments 2014-2018, EITA, etc.
 - Evaluation committee: Nominations Chess Base Best Publication Award (2010 ~ 2014); MOST Project Evalution Board (複審委員); IEET 主審; 旺宏科學獎主審 (2016 ~); 台灣人工智慧學校課程諮詢委員(2021-2022); 國家高速網路與計算中心諮詢委員(2022-). 
 
@@ -80,6 +80,7 @@
 
 ## Professional Experiences
 
+- 2025/04 ~: **Visiting Professor, [Kochi University of Technology][kut]**, Japan.  
 - 2023 ~ 2025: **Associate Dean, [College of Computer Science](https://www.ccs.nycu.edu.tw/about/office), [National Chiao Tung University][nctu]. (資訊學院副院長)**
 - 2021/08 ~ 2024/07: **Distinguished Professor (特聘教授), Department of Computer Science and Information Engineering, National Yang Ming Chiao Tung University.**
 - 2021/08 ~ : **Joint Appointment Professor (合聘教授), Industry Academia Innovation School (產創學院), National Yang Ming Chiao Tung University.**
@@ -125,6 +126,7 @@
 - 2022: 陽明交大-綠能學院, 陽明交大-工業工程系, Invited talk for Taiwan AI Academy, keynote of 第18屆軍事作業研究與模式模擬論壇, 元智大學.
 - 2023: Keynote of AWS re:Invent 2022 re:Cap, 陽明交大-綠能學院, the Augmented Intelligence and Interaction (AII) Workshop, Keynote of AUAI, 中華電信.
 - 2024: 臺北榮民總醫院, 臺南大學, TSMC (台積電), 經濟部-高階人員領導班, 聯發科-進階課程, 數位政府高峰會, 中央大學, 資策會STI TECH DAY 演講, LLM產學技術交流會, (Keynote of) Computers and Games 2024
+- 2025: 暨南大學, (Keynote at) Kochi University of Technology Japan (日本高知工大學), 元大證券, 仁寶集團
 
 ---
 
@@ -132,6 +134,7 @@
 
 - Organizations: 
   - 國科會（包括學門複審委員、「晶創臺灣推動辦公室」專家）
+  - 數位發展部 AI 產品與系統評測中心 (AIEC) 技術審議小組委員
   - 經濟部（包括主審）: ASSTD, SIIR, SBIR, 主導性新產品等
   - 考試院、工研院、資策會、中華電信所、中山科學院、台灣省勞工局、園區管理局等
   - 中華工程教育學會(IEET認證委員)
@@ -199,3 +202,4 @@
 [nctu]: https://www.nctu.edu.tw/
 [cmu_cs]: https://www.cs.cmu.edu/
 [isgs]: http://www.intergostudies.net/news/news_view.asp?news_num=8
+[kut]: https://www.kochi-tech.ac.jp/

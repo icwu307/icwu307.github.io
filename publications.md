@@ -4,8 +4,8 @@
 
 (SCI journals only)
 
-1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", accepted by the IEEE Transactions on Games, January, 2025.
-1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", Transactions on Machine Learning Research (TMLR), August, 2024. 
+1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", accepted by the IEEE Transactions on Games, DOI: 10.1109/TG.2025.3535740, January, 2025.
+1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", Transactions on Machine Learning Research (TMLR), arXiv:2408.17180, August, 2024. 
 1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", the IEEE Transactions on Games, Vol. 16, No. 2, pp 282-290, June 2024. 
 1. Kuo-Hao Ho, Jui-Yu Cheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, and *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", IEEE Access, vol. 12, pp. 14703-14718, 2024.
@@ -124,7 +124,7 @@
 1. Hoang-Giang Cao, Weihao Zeng, *I-Chen Wu*, "Using Dense Object Descriptors for Picking Cluttered General Objects with Reinforcement Learning", the NeurIPS 2021 4th Robot Learning Workshop: Self-Supervised and Lifelong Learning, December, 2021.
 1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "An Unsupervised Video Game Playstyle Metric via State Discretization", **the 37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)**, July 2021. (Acceptance rate: 206/777 ~= 26.5%)
 1. Shao-Xiong Zheng, Wei-Yuan Hsu, Kuo-Chan Huang, *I-Chen Wu*, "Connect6 Opening Leveraging AlphaZero and Job-Level Computing", The 35th Annual Conference of The Japanese Society for Artificial Intelligence (JSAI 2021), Japan, June 2021.
-1. Li-Cheng Lan, Meng-Yu Tsai, Ti-Rong Wu, *I-Chen Wu*, Cho-Jui Hsieh, "Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search", **the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), arXiv:2012.07910, February 2021.** (Acceptance rate: 1,692/7,911 ~= 21.4%)
+1. Li-Cheng Lan, Meng-Yu Tsai, Ti-Rong Wu, *I-Chen Wu*, Cho-Jui Hsieh, "Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search", **the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)**, arXiv:2012.07910, February 2021. (Acceptance rate: 1,692/7,911 ~= 21.4%)
 1. Kai-Chun Hu, Ping-Chun Hsieh, Ting Han Wei, *I-Chen Wu*, "Rethinking Deep Policy Gradients via State-Wise Policy Improvement", ICBINB Workshop, in the Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020), Decemeber 2020. 
 1. Yeong-Jia Roger Chu, Tinghan Wei, Jin-Bo Huang, Yuan-Hao Chen, *I-Chen Wu*, "Sim-To-Real Transfer for Autonomous Miniature Car Racing", Workshop on Perception, Learning, and Control for Autonomous Agile Vehicles, in the International Conference on Intelligent Robots and Systems (IROS), Las Vegas, October 2020. 
 1. Chu-Hsuan Hsueh, Kokolo Ikeda, Sang-Gyu Nam, *I-Chen Wu*, "Analyses of Tabular AlphaZero on NoGo," the 2020 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2020), Taipei, Taiwan, December 2020. **(Best Poster Award)**
