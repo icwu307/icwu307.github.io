@@ -80,7 +80,7 @@
 
 ## Professional Experiences
 
-- 2025/04 ~: **Visiting Professor, [Kochi University of Technology][kut]**, Japan.  
+- 2025/04 ~: **Visiting Professor (客座教授), [Kochi University of Technology][kut]**, Japan.  
 - 2023 ~ 2025: **Associate Dean, [College of Computer Science](https://www.ccs.nycu.edu.tw/about/office), [National Chiao Tung University][nctu]. (資訊學院副院長)**
 - 2021/08 ~ 2024/07: **Distinguished Professor (特聘教授), Department of Computer Science and Information Engineering, National Yang Ming Chiao Tung University.**
 - 2021/08 ~ : **Joint Appointment Professor (合聘教授), Industry Academia Innovation School (產創學院), National Yang Ming Chiao Tung University.**
@@ -126,7 +126,7 @@
 - 2022: 陽明交大-綠能學院, 陽明交大-工業工程系, Invited talk for Taiwan AI Academy, keynote of 第18屆軍事作業研究與模式模擬論壇, 元智大學.
 - 2023: Keynote of AWS re:Invent 2022 re:Cap, 陽明交大-綠能學院, the Augmented Intelligence and Interaction (AII) Workshop, Keynote of AUAI, 中華電信.
 - 2024: 臺北榮民總醫院, 臺南大學, TSMC (台積電), 經濟部-高階人員領導班, 聯發科-進階課程, 數位政府高峰會, 中央大學, 資策會STI TECH DAY 演講, LLM產學技術交流會, (Keynote of) Computers and Games 2024
-- 2025: 暨南大學, (Keynote at) Kochi University of Technology Japan (日本高知工大學), 元大證券, 仁寶集團
+- 2025: 暨南大學, (Keynote at) Kochi University of Technology Japan (日本高知工大學), 臺中榮民總醫院, 元大證券, 仁寶集團
 
 ---
 
