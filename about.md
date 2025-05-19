@@ -81,7 +81,7 @@
 ## Professional Experiences
 
 - 2025/04 ~: **Visiting Professor (客座教授), [Kochi University of Technology][kut]**, Japan.  
-- 2023 ~ : **Associate Dean, [College of Computer Science](https://www.ccs.nycu.edu.tw/about/office), [National Chiao Tung University][nctu]. (資訊學院副院長)**
+- 2023/08 ~ : **Associate Dean, [College of Computer Science](https://www.ccs.nycu.edu.tw/about/office), [National Chiao Tung University][nctu]. (資訊學院副院長)**
 - 2021/08 ~ 2024/07: **Distinguished Professor (特聘教授), Department of Computer Science and Information Engineering, National Yang Ming Chiao Tung University.**
 - 2021/08 ~ : **Joint Appointment Professor (合聘教授), Industry Academia Innovation School (產創學院), National Yang Ming Chiao Tung University.**
 - 2006 ~ : **Professor, Department of Computer Science and Information Engineering, National Chiao Tung University.**
