@@ -95,6 +95,7 @@
 
 (International conferences only) 
 
+1. Chien-Hua Chen, Chang-Chih Meng, Li-Ni Fu, Hen-Hsen Huang, and *I-Chen Wu*, "Auto-Guideline Alignment: Probing and Simulating Human Ideological Preferences in LLMs via Prompt Engineering", 2nd Workshop on Models of Human Feedback for AI Alignment (MoFA) in ICML 2025, Vancouver, Canada, July 2025.
 1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), May 2025. 
 1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**
 1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "An Efficient Method for Assessing the Strength of Mahjong Programs", the 17th International Conference on Agents and Artificial Intelligence (ICAART), Portugal, February 2025.
