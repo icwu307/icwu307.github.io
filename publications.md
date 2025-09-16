@@ -95,6 +95,9 @@
 
 (International conferences only) 
 
+1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai,  *I-Chen Wu* and Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving". In the conference on Advances in Computer Games (ACG 2025), October 21-23, 2025.
+1. Chun-Jui Wang, Jian-Ting Guo, Hung Guei, Chung-Chin Shih, Ti-Rong Wu, *I-Chen Wu*, "Evaluating Game Difficulty in Tetris Block Puzzle," the 30th Game Programming Workshop (GPW), Kanagawa, Japan, November 14-16, 2025.
+1. Kuanyen Liu, Renjyun Huang, Chang Chih Meng, *I-Chen Wu*, "POIL:Preference Optimization for Imitation Learning", **Asian Conference on Machine Learning (ACML 2025)**, Taipei, December 2025. 
 1. Chien-Hua Chen, Chang-Chih Meng, Li-Ni Fu, Hen-Hsen Huang, and *I-Chen Wu*, "Auto-Guideline Alignment: Probing and Simulating Human Ideological Preferences in LLMs via Prompt Engineering", 2nd Workshop on Models of Human Feedback for AI Alignment (MoFA) in ICML 2025, Vancouver, Canada, July 2025.
 1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), May 2025. 
 1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**

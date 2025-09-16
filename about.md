@@ -70,7 +70,7 @@
 ### Committee
 
 - Technical Program Committee (or reviewers of top-conferences): ICLR 2022 ~, ICML 2021 ~, NeurIPS 2020 ~, AAAI 2020 ~, IJCAI 2018 ~ 2020, IEEE CIG 2013 ~ 2018, IEEE COG 2019 ~, ACG/CG 2005 ~, SC2 2011 ~ , TAAI 2010 ~, TCGA 2010 ~, IRC 2018, MCS workshop 2020, etc.
-- Area Chair: ICML 2024 ~, NeurIPS 2025. Senior PC: AAAI 2025; Associate Chair: IEEE COG 2023. 
+- Area Chair: ICML 2024/2025, NeurIPS 2025. Senior PC: AAAI 2025/2026; Associate Chair: IEEE COG 2023. 
 - Advisory Committee: TAAI 2019~, TCGA Computer Game Tournaments 2014-2017, TAAI Computer Game Tournaments 2014-2018, EITA, etc.
 - Evaluation committee: Nominations Chess Base Best Publication Award (2010 ~ 2014); MOST Project Evalution Board (複審委員); IEET 主審; 旺宏科學獎主審 (2016 ~); 台灣人工智慧學校課程諮詢委員(2021-2022); 國家高速網路與計算中心諮詢委員(2022-). 
 
