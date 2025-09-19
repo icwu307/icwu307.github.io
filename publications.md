@@ -4,7 +4,7 @@
 
 (SCI journals only)
 
-1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", accepted by the IEEE Transactions on Games, DOI: 10.1109/TG.2025.3535740, January, 2025.
+1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", the IEEE Transactions on Games, Vol. 17, No. 3, pp 743-752, DOI: 10.1109/TG.2025.3535740, September, 2025.
 1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", Transactions on Machine Learning Research (TMLR), arXiv:2408.17180, August, 2024. 
 1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", the IEEE Transactions on Games, Vol. 16, No. 2, pp 282-290, June 2024. 
@@ -95,6 +95,8 @@
 
 (International conferences only) 
 
+1. Jian-Ting Guo, Yu-Cheng Chen, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, *I-Chen Wu*, "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Main Track)**, San Diego, December 2025. (Acceptance rate: 5290/21575 = 24.52%)
+1. Hsin-Yi Hsieh, Shang-Wei Liu, Chang Chih Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, *I-Chen Wu*, "TaiwanVQA: Benchmarking and Enhancing Cultural Understanding in Vision-Language Models", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)**, San Diego, December 2025. (Acceptance rate: 497/1995 = 24.91%)
 1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai,  *I-Chen Wu* and Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving". In the conference on Advances in Computer Games (ACG 2025), October 21-23, 2025.
 1. Chun-Jui Wang, Jian-Ting Guo, Hung Guei, Chung-Chin Shih, Ti-Rong Wu, *I-Chen Wu*, "Evaluating Game Difficulty in Tetris Block Puzzle," the 30th Game Programming Workshop (GPW), Kanagawa, Japan, November 14-16, 2025.
 1. Kuanyen Liu, Renjyun Huang, Chang Chih Meng, *I-Chen Wu*, "POIL:Preference Optimization for Imitation Learning", **Asian Conference on Machine Learning (ACML 2025)**, Taipei, December 2025. 
