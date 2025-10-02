@@ -260,6 +260,15 @@
 
 ## Archived Papers (at https://arxiv.org) (R)
 
+1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai, *I-Chen Wu*, Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving", arXiv:2510.00689, October 2025.
+1. Wei-Chen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", arXiv:2505.12811, May 2025.
+1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", arXiv:2502.03998, February 2025.
+1. Yun-Jui Tsai, Ting Han Wei, Chi-Huang Lin, Chung-Chin Shih, Hung Guei, *I-Chen Wu*, Ti-Rong Wu, "Solving 7x7 Killall-Go with Seki Database", arXiv:2411.05565, November 2024.
+1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", arXiv:2408.17180, August 2024.
+1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", arXiv:2408.06051, August 2024.
+1. Nhat-Minh Huynh, Hoang-Giang Cao, *I-Chen Wu*, "Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach", arXiv:2407.00662, July 2024.
+1. Nai-Chieh Huang, Ping-Chun Hsieh, Kuo-Hao Ho, *I-Chen Wu*, "PPO-Clip Attains Global Optimality: Towards Deeper Understandings of Clipping", arXiv:2312.12065, December 2023.
+1. Ti-Rong Wu, Hung Guei, Ting Han Wei, Chung-Chin Shih, Jui-Te Chin, *I-Chen Wu*, "Game Solving with Online Fine-Tuning", arXiv:2311.07178, November 2023.
 1. Tai-Lin Wu, Ti-Rong Wu, Chung-Chin Shih, Yan-Ru Ju, *I-Chen Wu*, "ResTNet: Defense against Adversarial Policies via Transformer in Computer Go", arXiv:2410.05347, September 2023.
 1. Kuo-Hao Ho, Ruei-Yu Jheng, Ji-Han Wu, Fan Chiang, Yen-Chi Chen, Yuan-Yu Wu, *I-Chen Wu*, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem", arXiv:2309.15517, September 2023.
 1. Kuo-Hao Ho, Ping-Chun Hsieh, Chiu-Chou Lin, You-Ren Luo, Feng-Jian Wang, *I-Chen Wu*, "Towards Human-Like RL: Taming Non-Naturalistic Behavior in Deep RL via Adaptive Behavioral Costs in 3D Games", arXiv:2309.15484, September 2023.
