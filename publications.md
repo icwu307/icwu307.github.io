@@ -4,7 +4,8 @@
 
 (SCI journals only)
 
-1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", the IEEE Transactions on Games, Vol. 17, No. 3, pp 743-752, DOI: 10.1109/TG.2025.3535740, September, 2025.
+1. Chung-Chin Shih, Ti-Rong Wu, Ting Han Wei, Yu-Shan Hsu, Hung Guei, and *I-Chen Wu*, "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers", accepted by the IEEE Transactions on Games, December, DOI 10.1109/TG.2025.3648019, 2025.
+1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", the  Transactions on Games, Vol. 17, No. 3, pp 743-752, DOI: 10.1109/TG.2025.3535740, September, 2025.IEEE
 1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", Transactions on Machine Learning Research (TMLR), arXiv:2408.17180, August, 2024. 
 1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
 1. Chung-Chin Shih, Ti-Rong Wu, Tinghan Wei, *I-Chen Wu*, "A Local-Pattern Related Look-Up Table", the IEEE Transactions on Games, Vol. 16, No. 2, pp 282-290, June 2024. 
@@ -95,6 +96,7 @@
 
 (International conferences only) 
 
+1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", accepted by 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, 2026
 1. Jian-Ting Guo, Yu-Cheng Chen, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, *I-Chen Wu*, "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Main Track)**, San Diego, December 2025. (Acceptance rate: 5290/21575 = 24.52%)
 1. Hsin-Yi Hsieh, Shang-Wei Liu, Chang Chih Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, *I-Chen Wu*, "TaiwanVQA: Benchmarking and Enhancing Cultural Understanding in Vision-Language Models", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)**, San Diego, December 2025. (Acceptance rate: 497/1995 = 24.91%)
 1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai,  *I-Chen Wu* and Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving". In the conference on Advances in Computer Games (ACG 2025), October 21-23, 2025.
@@ -260,6 +262,8 @@
 
 ## Archived Papers (at https://arxiv.org) (R)
 
+1. Chung-Chin Shih, Ti-Rong Wu, Ting Han Wei, Yu-Shan Hsu, Hung Guei, and *I-Chen Wu*, "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers", arXiv:2512.21365, December 2025.
+1. Jian-Ting Guo1, Yu-Cheng Chen1, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, *I-Chen Wu*, Ti-Rong Wu, "Learning Human-Like RL Agents through Trajectory Optimization with Action Quantization", arXiv:2511.15055, November 2025.
 1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai, *I-Chen Wu*, Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving", arXiv:2510.00689, October 2025.
 1. Wei-Chen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", arXiv:2505.12811, May 2025.
 1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", arXiv:2502.03998, February 2025.
