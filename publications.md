@@ -262,6 +262,7 @@
 
 ## Archived Papers (at https://arxiv.org) (R)
 
+1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", arXiv:2601.18284, Janurary 2026.
 1. Chung-Chin Shih, Ti-Rong Wu, Ting Han Wei, Yu-Shan Hsu, Hung Guei, and *I-Chen Wu*, "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers", arXiv:2512.21365, December 2025.
 1. Jian-Ting Guo1, Yu-Cheng Chen1, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, *I-Chen Wu*, Ti-Rong Wu, "Learning Human-Like RL Agents through Trajectory Optimization with Action Quantization", arXiv:2511.15055, November 2025.
 1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai, *I-Chen Wu*, Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving", arXiv:2510.00689, October 2025.

@@ -84,7 +84,7 @@
 [research]: research.html
 [publications]: publications.html
 [achievements]: research.html#research-topics-and-achievements
-[cgi_lab]: https://cgilab-tw.github.io/
+[cgi_lab]: https://cgi-lab.github.io/
 [cgi_lab_fb]: https://www.facebook.com/lab.cgi.7
 [citi]: https://www.citi.sinica.edu.tw/
 [sinica]: https://www.sinica.edu.tw/

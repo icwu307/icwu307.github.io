@@ -82,7 +82,7 @@
 
 - 2025/04 ~: **Visiting Professor (客座教授), [Kochi University of Technology][kut]**, Japan.  
 - 2023/08 ~ : **Associate Dean, [College of Computer Science](https://www.ccs.nycu.edu.tw/about/office), [National Chiao Tung University][nctu]. (資訊學院副院長)**
-- 2021/08 ~ 2024/07: **Distinguished Professor (特聘教授), Department of Computer Science and Information Engineering, National Yang Ming Chiao Tung University.**
+- 2021/08 ~ : **Distinguished Professor (特聘教授), Department of Computer Science and Information Engineering, National Yang Ming Chiao Tung University.**
 - 2021/08 ~ : **Joint Appointment Professor (合聘教授), Industry Academia Innovation School (產創學院), National Yang Ming Chiao Tung University.**
 - 2006 ~ : **Professor, Department of Computer Science and Information Engineering, National Chiao Tung University.**
 - 2023/03 ~ : **Joint Appointment Professor/Research Fellow (合聘教授/研究員), [Research Center for IT Innovation][citi], [Academia Sinica][sinica].**
@@ -127,13 +127,14 @@
 - 2023: Keynote of AWS re:Invent 2022 re:Cap, 陽明交大-綠能學院, the Augmented Intelligence and Interaction (AII) Workshop, Keynote of AUAI, 中華電信.
 - 2024: 臺北榮民總醫院, 臺南大學, TSMC (台積電), 經濟部-高階人員領導班, 聯發科-進階課程, 數位政府高峰會, 中央大學, 資策會STI TECH DAY 演講, LLM產學技術交流會, (Keynote of) Computers and Games 2024
 - 2025: 暨南大學, (Keynote at) Kochi University of Technology Japan (日本高知工大學), 臺中榮民總醫院, 元大證券, 仁寶集團
+- (no more updates)
 
 ---
 
 ## Consulting Experiences
 
 - Organizations: 
-  - 國科會（包括學門複審委員、「晶創臺灣推動辦公室」專家）
+  - 國科會（包括學門複審委員、「晶創臺灣推動辦公室」專家等等）
   - 數位發展部 AI 產品與系統評測中心 (AIEC) 技術審議小組委員
   - 經濟部（包括主審）: ASSTD, SIIR, SBIR, 主導性新產品等
   - 考試院、工研院、資策會、中華電信所、中山科學院、台灣省勞工局、園區管理局等
