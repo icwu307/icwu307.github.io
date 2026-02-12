@@ -235,6 +235,8 @@ Jin-Bo Huang (7th))
   - 資訊學院教學獎。
 - 2006: NCTU6 won the gold in the Connect6 Tournament of [the 11th Computer Olympiad][icga] in Turino, Italy.
   - 「交大六號」榮獲[第十一屆奧林匹亞電腦賽局競賽][icga]六子棋程式冠軍。
+- 1984: the first prize of the Graduate Student Thesis Contest by the Chinese Institute of Electrical Engineering (for my Master Thesis)
+  - 1984年中國電機工程學會青年論文獎第一名
 
 ---
 

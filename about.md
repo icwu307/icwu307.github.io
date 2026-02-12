@@ -10,9 +10,11 @@
 
 - M.S. in Computer Science, National Taiwan University, May 1984.
 
-  M.S. Thesis: "Area-Time Tradeoffs in VLSI Algorithm".
+  M.S. Thesis: "Area-Time Tradeoffs in VLSI Algorithm". 
 
   Advisor: Professor F. C. Lin
+
+  (The first prize of the Graduate Student Thesis Contest by the Chinese Institute of Electrical Engineering in 1984; 1984年中國電機工程學會青年論文獎第一名)
 
 - B.S. in Electrical Engineering, National Taiwan University, May 1982.
 
