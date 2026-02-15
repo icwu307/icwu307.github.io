@@ -242,6 +242,9 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
+- 2025: Bo-Wei Huang received the best M.S. dissertation award from IEEE Taipei Section.
+  - 黃柏維，榮獲IEEE 台北分會最佳碩士論文獎。 
+- 2025: 陳妍沂，榮獲「113年度大專學生研究計畫研究創作獎」
 - 2024: Chung-Chin Shih received the best Ph.D. dissertation award from IEEE Taipei Section.
   - 施仲晉，榮獲IEEE 台北分會最佳博士論文獎。 
 - 2024: Chung-Chin Shih received the Ph.D. dissertation honorable mention award from TAAI association.
