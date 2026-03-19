@@ -2,7 +2,8 @@
 
 (Some links may no longer exist. It may be found via searching title.)
 
-- 2023/02/08 [【聊天機器人ChatGPT暴紅 2個月用戶破1億【華視新聞】](https://news.cts.com.tw/cts/life/202302/202302082139980.html)
+- 2026/03/18 [AlphaGo 震撼棋壇十週年：臺師大、中研院與圍棋協會聯手舉辦紀念論壇](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=24300)
+- 2023/02/08 [聊天機器人ChatGPT暴紅 2個月用戶破1億【華視新聞】](https://news.cts.com.tw/cts/life/202302/202302082139980.html)
 - 2022/12/02 [擊敗摩根大通，台灣學生包辦AWS賽車前3名！陽明交大怎麼把「奪冠」變傳統？【數位時代】](https://www.bnext.com.tw/article/73034/aws-reinvent-deepracer)
 - 2022/12/01 [陽明交通大學團隊贏得AWS DeepRacer League前三名【聯合報】](https://udn.com/news/story/7240/6808230)
 - 2022/12/01 [AWS re:Invent 2022年度盛會迎捷報！台灣年輕人才囊括AWS DeepRacer League冠軍賽全球前三名並於AWS GameDay蟬聯奪冠【蕃薯藤】](https://n.yam.com/Article/20221201238131)
