@@ -95,8 +95,9 @@
 ## Conference Papers (C)
 
 (International conferences only) 
-
-1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", accepted by 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, 2026
+1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", accepted by 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June, 2026
+1. Hsing-Yu Chen, Jérôme Arjonilla,
+*I-Chen Wu*, and Ti-Rong Wu, "WallZero: Mastering the Game of WallGo with Strategic Analysis", the International Conference on Computers and Games (CG 2026), Maastricht, the Netherlands, June 2026. 
 1. Jian-Ting Guo, Yu-Cheng Chen, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, *I-Chen Wu*, "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Main Track)**, San Diego, December 2025. (Acceptance rate: 5290/21575 = 24.52%)
 1. Hsin-Yi Hsieh, Shang-Wei Liu, Chang Chih Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, *I-Chen Wu*, "TaiwanVQA: Benchmarking and Enhancing Cultural Understanding in Vision-Language Models", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)**, San Diego, December 2025. (Acceptance rate: 497/1995 = 24.91%)
 1. Chi-Huang Lin, Ting Han Wei, Chun-Jui Wang, Hung Guei, Chung-Chin Shih, Yun-Jui Tsai,  *I-Chen Wu* and Ti-Rong Wu, "Relevance-Zone Reduction in Game Solving". In the conference on Advances in Computer Games (ACG 2025), October 21-23, 2025.
