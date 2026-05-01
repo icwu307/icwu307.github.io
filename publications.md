@@ -95,6 +95,7 @@
 ## Conference Papers (C)
 
 (International conferences only) 
+1. Qian-Rong Lee, Guei Hung, Ti-Rong Wu, and *I-Chen Wu*, "MAPLE: Multi-State Aggregated Policy Evaluation for AlphaZero in Imperfect-Information Games", IEEE Conference on Games 2026, Madrid, Spain, September 2026. (Acceptance rate: 89/239 = 37.2%)
 1. Sheng-You Huang, Hsiao-Chuan Chang, Yen-Chi Chen, Ting-Han Wei, I-Hau Yeh, Sheng-Yao Kuan, Chien-Yao Wang, Hsuan-Han Lee, and *I-Chen Wu*, "A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control", accepted by 2026 ITS World Congress, Gangneung, Korea, October 2026.
 1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", accepted by 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 2026.
 1. Hsing-Yu Chen, Jérôme Arjonilla,*I-Chen Wu*, and Ti-Rong Wu, "WallZero: Mastering the Game of WallGo with Strategic Analysis", the International Conference on Computers and Games (CG 2026), Maastricht, the Netherlands, June 2026. 
