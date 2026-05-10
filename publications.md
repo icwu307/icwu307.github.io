@@ -4,7 +4,7 @@
 
 (SCI journals only)
 
-1. Chung-Chin Shih, Ti-Rong Wu, Ting Han Wei, Yu-Shan Hsu, Hung Guei, and *I-Chen Wu*, "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers", accepted by the IEEE Transactions on Games, December, DOI 10.1109/TG.2025.3648019, 2025.
+1. Chung-Chin Shih, Ti-Rong Wu, Ting Han Wei, Yu-Shan Hsu, Hung Guei, and *I-Chen Wu*, "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers", the IEEE Transactions on Games, DOI 10.1109/TG.2025.3648019, Vol. 18, No. 1, March 2026.
 1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "Applying Importance Sampling to MCTS for Mahjong", the  Transactions on Games, Vol. 17, No. 3, pp 743-752, DOI: 10.1109/TG.2025.3535740, September, 2025.IEEE
 1. Chiu-Chou Lin, Yu-Wei Shih, Kuei-Ting Kuo, Yu-Cheng Chen, Chien-Hua Chen, Wei-Chen Chiu, *I-Chen Wu*, "Identifying and Clustering Counter Relationships of Team Compositions in PvP Games for Efficient Balance Analysis", Transactions on Machine Learning Research (TMLR), arXiv:2408.17180, August, 2024. 
 1. Chiu-Chou Lin, Wei-Chen Chiu, *I-Chen Wu*, "Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games", Transactions on Machine Learning Research (TMLR), arXiv:2408.06051, August 2024. 
@@ -95,9 +95,9 @@
 ## Conference Papers (C)
 
 (International conferences only) 
-1. Qian-Rong Lee, Guei Hung, Ti-Rong Wu, and *I-Chen Wu*, "MAPLE: Multi-State Aggregated Policy Evaluation for AlphaZero in Imperfect-Information Games", IEEE Conference on Games 2026, Madrid, Spain, September 2026. (Acceptance rate: 89/239 = 37.2%)
-1. Sheng-You Huang, Hsiao-Chuan Chang, Yen-Chi Chen, Ting-Han Wei, I-Hau Yeh, Sheng-Yao Kuan, Chien-Yao Wang, Hsuan-Han Lee, and *I-Chen Wu*, "A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control", accepted by 2026 ITS World Congress, Gangneung, Korea, October 2026.
-1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", accepted by 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 2026.
+1. Qian-Rong Lee, Guei Hung, Ti-Rong Wu, and *I-Chen Wu*, "MAPLE: Multi-State Aggregated Policy Evaluation for AlphaZero in Imperfect-Information Games", **IEEE Conference on Games 2026**, Madrid, Spain, September 2026. (Acceptance rate: 89/239 = 37.2%)
+1. Sheng-You Huang, Hsiao-Chuan Chang, Yen-Chi Chen, Ting-Han Wei, I-Hau Yeh, Sheng-Yao Kuan, Chien-Yao Wang, Hsuan-Han Lee, and *I-Chen Wu*, "A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control", 2026 ITS World Congress, Gangneung, Korea, October 2026.
+1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 2026.
 1. Hsing-Yu Chen, Jérôme Arjonilla,*I-Chen Wu*, and Ti-Rong Wu, "WallZero: Mastering the Game of WallGo with Strategic Analysis", the International Conference on Computers and Games (CG 2026), Maastricht, the Netherlands, June 2026. 
 1. Jian-Ting Guo, Yu-Cheng Chen, Ping-Chun Hsieh, Kuo-Hao Ho, Po-Wei Huang, Ti-Rong Wu, *I-Chen Wu*, "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Main Track)**, San Diego, December 2025. (Acceptance rate: 5290/21575 = 24.52%)
 1. Hsin-Yi Hsieh, Shang-Wei Liu, Chang Chih Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, *I-Chen Wu*, "TaiwanVQA: Benchmarking and Enhancing Cultural Understanding in Vision-Language Models", the **Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)**, San Diego, December 2025. (Acceptance rate: 497/1995 = 24.91%)
@@ -106,7 +106,7 @@
 1. Kuanyen Liu, Renjyun Huang, Chang Chih Meng, *I-Chen Wu*, "POIL:Preference Optimization for Imitation Learning", **Asian Conference on Machine Learning (ACML 2025)**, Taipei, December 2025. 
 1. Chien-Hua Chen, Chang-Chih Meng, Li-Ni Fu, Hen-Hsen Huang, and *I-Chen Wu*, "Auto-Guideline Alignment: Probing and Simulating Human Ideological Preferences in LLMs via Prompt Engineering", 2nd Workshop on Models of Human Feedback for AI Alignment (MoFA) in ICML 2025, Vancouver, Canada, July 2025.
 1. Chiu-Chou Lin, *I-Chen Wu*, "Online Learning of Counter Categories and Ratings in PvP Games", The 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), May 2025. 
-1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", accepted by **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**
+1. Weichen Liao, Ti-Rong Wu, *I-Chen Wu*, "Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning", **24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, May 2025. (Full paper: acceptance rate = 24.5%)**
 1. Shih-Chieh Tang, Jr-Chang Chen, *I-Chen Wu*, "An Efficient Method for Assessing the Strength of Mahjong Programs", the 17th International Conference on Agents and Artificial Intelligence (ICAART), Portugal, February 2025.
 1. Hsin-Yi Hsieh, Shang-Wei Liu, Chang-Chih Meng, Chien-Hua Chen, Shuo-Yueh Lin, Hung-Ju Lin, Hen-Hsen Huang, and *I-Chen Wu*, "TaiwanVQA: A Benchmark for Visual Question Answering for Taiwanese Daily Life", the First Workshop on Evaluation of Multi-Modal Generation (EvalMG25) in the 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 2025. 
 1. Jr-Chang Chen, Shih-Chieh Tang, *I-Chen Wu*, "A Lookup Table for Deficiency Number Calculation in Mahjong", the 2024 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2024), Taiwan, December 2024. 
