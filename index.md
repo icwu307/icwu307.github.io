@@ -77,9 +77,9 @@ Research Fellow and Executive Officer of AI Computing Center, [Research Center f
 > Hsin-Chu, Taiwan
 
 > TEL: +886-3-5731855  
-> FAX: +886-3-5733777  
 > Email: <icwu@cs.nycu.edu.tw>  
 > Assistant: Cindy Ko <cindyko@nycu.edu.tw>
+<!-- >> FAX: +886-3-5733777 -->  
 
 [about]: about.html
 [honors]: honors.html
