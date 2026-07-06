@@ -242,6 +242,10 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
+- 2026: Yun-Jui Tsai received the best M.S. dissertation award from TCGA association.
+  - 蔡昀叡，榮獲台灣電腦對局學會最佳碩士論文獎。 
+- 2025: Pei-Chiun Peng received the best M.S. dissertation award from TCGA association.
+  - 彭沛鈞，榮獲台灣電腦對局學會最佳碩士論文獎。 
 - 2025: Bo-Wei Huang received the best M.S. dissertation award from IEEE Taipei Section.
   - 黃柏維，榮獲IEEE 台北分會最佳碩士論文獎。 
 - 2025: 陳妍沂，榮獲「113年度大專學生研究計畫研究創作獎」
