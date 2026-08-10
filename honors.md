@@ -2,6 +2,9 @@
 
 [(News Coverage in Chinese; 新聞報導)][news]
 
+- 2026: Nominated for the Best Paper Award in the IEEE Conference on Games 2026 (CoG 2026), Madrid, Spain, September 2026.
+  - Qian-Rong Lee, Hung Guei, Ti-Rong Wu, I-Chen Wu, "MAPLE: Multi-State Aggregated Policy Evaluation for AlphaZero in Imperfect-Information Games,"
+  - 榮獲 IEEE CoG 2026 會議之最佳論文獎提名
 - 2024: Received STI A* Awards with Chang-Chi Meng and Hung-Rui Huang
   - 2024年 資策會軟體院前瞻技術獎 (孟昶緻、黃竑睿)
 - 2024: Won two gold (Dark Chess, Mahjong) in [ICGA Computer Olympiad 2024][icga]. 
