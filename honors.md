@@ -124,6 +124,9 @@ Jin-Bo Huang (7th))
 - 2015: Won six golds (Dark chess 8x8, Connect6, Go 9x9, NoGo, Mahjong, 2048), four silvers in the TAAI 2015 Computer Game Competition.
   - TAAI 2015 電腦賽局競賽榮獲六金、四銀
   - 六金: Dark chess 8x8: 薛築軒、曾汶傑等; Nogo: 佘博玄、藍立呈等; Go: 吳廸融等; Connect6:林宏軒等; Mahjong: 莊立楷等; 2048: 葉騉豪等.
+- 2015: Selected as a Best Paper Finalist in the 2015 IEEE Conference on Computational Intelligence and Games (CIG 2015), August 2015.
+  - Jiao Wang, Tan Zhu, Hongye Li, Chu-Hsuan Hsueh, I-Chen Wu, "Belief-state Monte-Carlo Tree Search for Phantom Games,"
+  - 入圍 IEEE CIG 2015 會議之最佳論文獎
 - 2015: Won against 1p (professional 1 dan) and lost against 5p and 9p (Chun-Hsun Chou) with H6 of Go 19x19 in Human vs. Computer Go competition at IEEE CIG 2015.
   - IEEE CIG 2015 人腦與電腦圍棋對抗賽中, CGI 程式於 19 路圍棋 H6, 獲得一勝(俞俐均職業一段)二負(周俊勳職業九段&張凱馨職業五段)
   - 作者: 吳廸融, 廖挺富, 陳冠文, 藍立呈, 施仲晉, 吳毅成.
