@@ -67,10 +67,12 @@ List our research topics as well as achievements (since 2005).
 - Study political sycophancy of LLMs, namely how LLMs shift their political stances to cater to users during conversations.
   - Propose a framework that disentangles two distinct triggers of political sycophancy, opinion (aligning with explicit narratives) and identity (stereotyping based on demographic labels), evaluated on 450 manually-checked political dilemmas over 13 instruction-tuned LLMs.
   - The results show that susceptibility to explicit opinions does not predict the tendency to stereotype by identity labels, and that system-level personas fail to restrict user-driven drifts. This warns that naive personalization may trap users in stealthy algorithmic echo chambers.
+  - The results will be presented in the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Also see [publications [C 130]][publications].
   - This work is supported by a four-year NSTC project (國科會計畫) "Towards Communicative Agentic AI via Strategic Reasoning Agents" (從策略推理邁向溝通型代理式人工智慧) starting from 2025.  
 - Propose a belief-shift evaluation benchmark for LLM agents in social-deduction games, such as Werewolf (狼人殺).
   - Most existing evaluations for LLM agents rely on final game outcomes only, which reveal little about communication behaviors. Instead, we measure how an observing agent's beliefs change before and after each suspicion or accusation message, which is closely related to theory of mind.
   - Evaluate 40 open-weight LLM configurations on 1,224 annotated messages from 200 LLM-played games. The results show that larger models better distinguish wolves from villagers, but their beliefs are still strongly influenced by accusations, especially from accusers they trust. This suggests that current LLMs still struggle to integrate accusation content with source trust.
+  - The results will be presented in the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Also see [publications [C 129]][publications].
   - This work is supported by a four-year NSTC project (國科會計畫) "Towards Communicative Agentic AI via Strategic Reasoning Agents" (從策略推理邁向溝通型代理式人工智慧) starting from 2025.  
 - Develop TaiwanVQA, a visual question answering (VQA) benchmark for evaluating and enhancing cultural understanding of vision-language models (VLMs), collaborated with the TAIDE project.
   - The benchmark contains 2,736 images and 5,472 manually designed questions on culturally specific topics of Taiwan, such as traditional food, public signs, festivals and landmarks, among which 1,000 images and 2,000 questions form the official benchmark set.
@@ -138,6 +140,7 @@ List our research topics as well as achievements (since 2005).
 - Propose a new stochastic gradient descent with hyperbolic-tangent decay. Also see [publications [C 75]][publications].
 - Use deep learning to predict sleep quality from wearable data.
   - Collaborating with Belun Technology, develop deep-learning-based algorithms on a wearable ring for detecting obstructive sleep apnea (OSA), categorizing apnea severity, and classifying sleep stages. Also see [publications [J 69 78]][publications].
+  - Propose a synthetic-to-real diffusion-based approach to denoising photoplethysmography (PPG) signals for sleep monitoring applications, to be presented in the 22nd Annual International Conference on Body Sensor Networks (IEEE EMBS BSN 2026). Also see [publications [C 128]][publications].
 - Use DRL and deep learning for autonomous underwater vehicles (AUV), including an intelligent underwater recognition system and a depth-keeping control system. Also see [publications [J 72 75]][publications].
 
 Note: since the progress in this part has been made so fast, the research topics and achievements described here may not be up to date. Please directly consult with lab members for the latest research in more detail.
