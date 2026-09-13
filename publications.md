@@ -94,6 +94,7 @@
 
 ## Conference Papers (C)
 
+1. Nhat-Minh Huynh, Hoang-Giang Cao, Cong-Tinh Dao, *I-Chen Wu*, "Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach", The 4th International Conference on Intelligent Systems and Data Science (ISDS 2026), Taoyuan, Taiwan, November 2026. 
 1. Li-Ni Fu, Chang Chih Meng, Chien-Hua Chen, Hen-Hsen Huang, *I-Chen Wu*, "How Identity and Opinion Shape Political Sycophancy in LLMs", **the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary, October 2026. (Acceptance rate: 2719/17669 = 15.4%)**
 1. Yu-Yu Yang, Ti-Rong Wu, Hung Guei, Hsing-Yu Chen, *I-Chen Wu*, "Do LLMs Trust the Accuser or the Accusation? Measuring Belief Shifts in Werewolf", **the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary, October 2026. (Acceptance rate: 2719/17669 = 15.4%)**
 1. Wenbo Gu, Arthur Liu, *I-Chen Wu*, "Synthetic-to-Real Diffusion-Based PPG Denoising for Sleep Monitoring Applications", 22nd Annual International Conference on Body Sensor Networks (IEEE EMBS BSN 2026), October 2026. 
