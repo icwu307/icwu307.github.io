@@ -267,6 +267,7 @@
 
 ## Archived Papers (at https://arxiv.org) (R)
 
+1. Yu-Yu Yang, Ti-Rong Wu, Hung Guei, Hsing-Yu Chen, *I-Chen Wu*, "Do LLMs Trust the Accuser or the Accusation? Measuring Belief Shifts in Werewolf", arXiv:2609.12446, August 2026.
 1. Li-Ni Fu, Chang Chih Meng, Chien-Hua Chen, Hen-Hsen Huang, *I-Chen Wu*, "How Identity and Opinion Shape Political Sycophancy in LLMs", arXiv:2608.29198, August 2026.
 1. Hsing-Yu Chen, Jérôme Arjonilla, *I-Chen Wu*, Ti-Rong Wu, "WallZero: Mastering the Game of WallGo with Strategic Analysis", arXiv:2606.17847, July 2026.
 1. Hsiao-Chuan Chang, ShengYou Huang, Yen-Chi Chen, *I-Chen Wu*, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", arXiv:2601.18284, Janurary 2026.
