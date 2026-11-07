@@ -2,6 +2,8 @@
 
 [(News Coverage in Chinese; 新聞報導)][news]
 
+- 2026: Received 2026 A* Awards 金仝獎 (Li-Ni Fu, Chang-Chi Meng, Chien-Hua Chen, Co-advised by Hen-Hsen Huang)
+  - 2026 A* Awards 金仝獎 (傅莉妮、孟昶緻、陳建樺, Co-advisor 黃瀚萱)
 - 2026: Received the Best Paper Runner-Up Award in the IEEE Conference on Games 2026 (CoG 2026), Madrid, Spain, September 2026.
   - Qian-Rong Lee, Hung Guei, Ti-Rong Wu, I-Chen Wu, "MAPLE: Multi-State Aggregated Policy Evaluation for AlphaZero in Imperfect-Information Games,"
   - 榮獲 IEEE CoG 2026 會議之最佳論文亞軍獎 (2/248 = 0.8%)
@@ -248,6 +250,8 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
+- 2026: Yun-Jui Tsai received the best M.S. dissertation award from IEEE Taipei Section.
+  - 蔡昀叡，榮獲IEEE 台北分會最佳碩士論文獎。  
 - 2026: Yun-Jui Tsai received the best M.S. dissertation award from TCGA association.
   - 蔡昀叡，榮獲台灣電腦對局學會最佳碩士論文獎。 
 - 2025: Pei-Chiun Peng received the best M.S. dissertation award from TCGA association.
