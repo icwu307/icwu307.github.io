@@ -250,6 +250,9 @@ Jin-Bo Huang (7th))
 
 ## Honors of Students under Supervision
 
+- 2026: Yun-Jui Tsai received the best M.S. dissertation award from TAAI association.
+  - 蔡昀叡，榮獲 TAAI 最佳碩士論文獎。  
+    指導論文題目: 用後悔值引導AlphaZero 提升學習效率
 - 2026: Yun-Jui Tsai received the best M.S. dissertation award from IEEE Taipei Section.
   - 蔡昀叡，榮獲IEEE 台北分會最佳碩士論文獎。  
 - 2026: Yun-Jui Tsai received the best M.S. dissertation award from TCGA association.
